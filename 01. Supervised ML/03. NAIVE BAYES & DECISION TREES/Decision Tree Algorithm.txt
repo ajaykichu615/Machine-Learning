@@ -1,0 +1,45 @@
+Decision Tree Algorithm
+------------------------
+
+# Decision Tree - A Decision Tree is a supervised learning algorithm used for classification and regression tasks. 
+	  	- It models decisions and their possible consequences as a tree-like structure of rules based on feature values.
+
+
+# Nodes - Nodes are the building blocks of the tree.
+	- Each node represents a decision or a prediction.
+	- Types include: root node, decision node, and leaf node.
+
+# Root node - The topmost node of the tree.
+ 	    - It represents the first split, chosen based on the best criterion (like Gini or Entropy).
+	    - All data starts here before branching out.
+
+# Leaf node - The terminal node with no further splits.
+	    - Represents the final output or class prediction.
+            - In regression, it may hold a numerical prediction (like income); in classification, a class (like “spam”).
+
+# Decision node	- Intermediate nodes where splits happen based on feature values.
+		- These contain conditions like “Is Age > 30?”.
+		- They lead to other decision nodes or leaf nodes.
+
+# Best Split - Finding the "best split" means choosing the feature and threshold that gives the most pure subgroups.
+	     - This is based on impurity measures like:
+ 	     - 🔹 Gini Index
+	     - 🔹 Entropy (Information Gain)
+
+# Criterion(Entropy and Gini) 
+		Entropy - Measures unpredictability or impurity in a dataset
+		Gini - Measures how often a randomly chosen element would be misclassified
+
+# Tree pruning and importance - Decision trees can overfit by becoming too deep or complex.
+			      - Pruning removes branches that have little impact to improve generalization:
+			      - 🔧 Pre-pruning (limit tree depth or min samples)
+			      - 🔧 Post-pruning (build full tree, then trim back)
+
+
+# Feature Importance - Trees naturally provide insights into feature importance.
+		     - The more a feature is used for splitting (and the better those splits), the higher its importance score.
+
+# Information gain - Entropy of node prior to splitting minus Entropy of the next node after the split. So as the entropy decreases,
+		     information gain increases which is a criteria for selecting optimal node.
+
+

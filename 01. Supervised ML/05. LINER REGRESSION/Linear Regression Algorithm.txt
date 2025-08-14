@@ -1,0 +1,23 @@
+Linear Regression
+-----------------
+
+Linear regression is a simple way of predicting a value (like price, temperature, or weight) based on one or more inputs (features). It draws a straight line (or a plane in more dimensions) that best fits the data points.
+
+
+Formula : y=mx+c
+
+Where:
+
+y = predicted output (like Sales)
+
+x = input feature (like Temperature)
+
+m = slope of the line (how much y changes when x increases)
+
+c = intercept (where the line crosses y-axis)
+
+The model tries to find the best m (slope) and b (intercept) so that the predicted values (ŷ) are as close as possible to the actual values (y).
+
+
+Ordinary Least Squares (OLS) is a method used in linear regression to estimate the parameters (coefficients) of a model that best fits the data. OLS helps us find the best values of m and c so that the line fits the data as well as possible.
+ 

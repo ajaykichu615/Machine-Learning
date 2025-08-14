@@ -1,0 +1,18 @@
+Naive Bayes Algorithm
+----------------------
+
+- Supervised ML Algorithm only used for classification.
+
+- It is a probabilistic algorithm based on Bayes theorem.
+
+- The 'naive' part comes from its assumption of feature of feature independence, meaning it assumes the presence of one feature
+  doesn't affect the presence of another within a specific class.
+
+- Mainly used for text classification problem.
+
+- Parametric algorithm
+
+Based on features, 3 types:
+1. GaussianNB----> Continuous feature values
+2. MultiNomial----> Discreet feature values
+3. Bernoulli---->  feature values

@@ -1,0 +1,29 @@
+Evaluation Metrics for regression problems
+------------------------------------------
+
+Mean Absolute Error - Measures the average size of the errors in a set of predictions.
+
+Takes the absolute value (no negatives). Gives equal weight to small and big errors.  Closer to 0 is better
+
+
+Mean Squared Error - Measures the average of squared errors.
+
+Larger errors become much bigger (because of squaring).Sensitive to outliers. Closer to 0 is better
+
+
+Root Mean Squared Error - Just the square root of MSE. Same as MSE, but more interpretable (because it's in the same units as your target).  closer to 0 is better
+
+
+R squared value ( 1---> Perfect fit, 0--->Worst fit)
+= 1-(SSres/SStotal)    ( SSres ---Square Sum of residuals | SStotal ----Squared Sum of Total)
+
+r2 = 1- Model Errors/ Total Variance in Data
+
+​Tells you how well your model explains the data.
+
+It’s like a percentage of "how much sense" your predictions make.
+Best case: 1.0
+
+Acceptable: Between 0 and 1
+
+Bad: Less than 0

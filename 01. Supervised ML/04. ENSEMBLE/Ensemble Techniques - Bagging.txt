@@ -1,0 +1,62 @@
+Ensemble Techniques:
+--------------------
+
+1. Bagging:
+
+✅ What is Bagging?
+
+Bagging (Bootstrap Aggregating) is an ensemble method that:
+
+Trains multiple models (like decision trees)
+
+On different random subsets of the data
+
+Then averages the results (regression) or uses majority vote (classification)
+---
+
+📦 What is Bootstrap Sampling?
+
+Randomly select samples with replacement from the training set
+
+Each new dataset is same size as original, but may have duplicate rows
+
+
+🧪 Example:
+Original data = [A, B, C, D]
+Bootstrap sample = [B, A, A, D] ✅
+(Some data repeats, some may be left out)
+
+---
+
+🌲 What is Random Forest?
+
+Random Forest = Bagging + Random feature selection
+
+Each tree in the forest:
+
+Gets a bootstrap sample
+
+At each split, chooses a random subset of features
+
+
+Final result: Majority vote (classification) or average (regression)
+
+---
+
+🔑 Why Random Forest Works Well?
+
+Reduces overfitting of a single decision tree
+
+More stable and accurate due to model averaging
+
+Handles missing data & noisy labels well
+
+---
+
+🧠 Summary:
+
+Concept	Key Idea
+
+Bagging	Train models on different bootstrap samples
+Bootstrap	Sampling with replacement
+Random Forest	Bagging + random feature selection

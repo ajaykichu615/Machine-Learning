@@ -1,0 +1,36 @@
+EDA(Exploratory Data Analysis)
+------------------------------
+
+Step 1
+------
+Basic understanding about the data.
+
+Step 2
+------
+Data Cleaning
+    ---> Missing value handling.
+    ---> Duplicate data removal.
+    ---> Outlier detection and handling.
+    ---> Data type checking and conversion if needed.
+
+Step 3
+------
+Feature Engineering
+
+Step 4
+------
+
+Univariate
+Bivariate
+Multivariate
+
+Step 5
+------
+Data Visualization for better interpretability of data and patterns.
+
+step 6
+------
+Report generation of the key insights from the analysis.
+
+
+

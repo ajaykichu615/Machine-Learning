@@ -1,0 +1,246 @@
+🔹 Section 1: K-Nearest Neighbors (KNN) — 5 Questions
+
+1. What does the "K" represent in KNN?
+A) Number of classes
+B) Number of features
+C) Number of neighbors
+D) Number of clusters
+
+
+2. KNN belongs to which type of machine learning?
+A) Supervised learning
+B) Unsupervised learning
+C) Reinforcement learning
+D) Semi-supervised learning
+
+
+3. Which distance metric is commonly used in KNN?
+A) Hamming distance
+B) Euclidean distance
+C) Cosine distance
+D) Pearson correlation
+
+
+4. What is a major disadvantage of KNN?
+A) Requires training time
+B) Doesn't work on large datasets
+C) Slow prediction time
+D) Only works with linear data
+
+
+5. How can the performance of KNN be improved?
+A) By reducing the dataset size
+B) By increasing model depth
+C) By scaling the features
+D) By removing categorical variables
+
+
+
+
+---
+
+🔹 Section 2: Naive Bayes — 4 Questions
+
+6. What assumption does Naive Bayes make about the features?
+A) Features are dependent
+B) Features are independent
+C) Features have equal variance
+D) Features follow uniform distribution
+
+
+7. Naive Bayes is most suitable for:
+A) Regression problems
+B) Time series forecasting
+C) Text classification
+D) Image generation
+
+
+8. What is the purpose of Laplace smoothing in Naive Bayes?
+A) To reduce training time
+B) To normalize feature values
+C) To avoid zero probability
+D) To handle missing values
+
+
+9. Gaussian Naive Bayes assumes:
+A) Poisson distribution
+B) Exponential distribution
+C) Gaussian (normal) distribution
+D) Uniform distribution
+
+
+
+
+---
+
+🔹 Section 3: Decision Tree — 5 Questions
+
+10. What is the primary goal when splitting a node in a decision tree?
+A) Increase accuracy
+B) Maximize information gain
+C) Increase entropy
+D) Reduce model depth
+
+
+11. Which impurity metric is not commonly used in decision trees?
+A) Gini index
+B) Entropy
+C) RMSE
+D) Information gain
+
+
+12. Which of the following helps prevent overfitting in decision trees?
+A) Decreasing leaf nodes
+B) Increasing depth
+C) Pruning
+D) Using more features
+
+
+13. What is pruning in a decision tree?
+A) Adding more branches
+B) Removing irrelevant data
+C) Removing unnecessary splits
+D) Changing the root node
+
+
+14. What is the range of Gini Index for a binary split?
+A) 0 to 0.5
+B) -1 to 1
+C) 0 to log2(n)
+D) 0 to 100
+
+
+
+
+---
+
+🔹 Section 4: Support Vector Machine (SVM) — 4 Questions
+
+15. What is the goal of an SVM?
+A) Minimize distance between data points
+B) Maximize margin between classes
+C) Maximize entropy
+D) Minimize number of features
+
+
+16. What is the function of a kernel in SVM?
+A) Improve accuracy
+B) Enable non-linear separation
+C) Reduce noise
+D) Prune decision boundaries
+
+
+17. Which kernel is commonly used in SVM for non-linear data?
+A) Linear
+B) Polynomial
+C) RBF (Radial Basis Function)
+D) Sigmoid
+
+
+18. In SVM, what does a support vector represent?
+A) A feature with high correlation
+B) A class label
+C) A data point closest to the margin
+D) A feature with missing values
+
+
+
+
+---
+
+🔹 Section 5: Data Imbalance — 3 Questions
+
+19. Which of the following is a common problem in imbalanced datasets?
+A) High recall
+B) High accuracy but low precision
+C) Low bias
+D) Overfitting is avoided
+
+
+20. What is SMOTE used for?
+A) Scaling numeric data
+B) Encoding categorical data
+C) Undersampling
+D) Oversampling minority class
+
+
+21. Which technique is not used to handle class imbalance?
+A) Undersampling
+B) Oversampling
+C) Feature scaling
+D) Synthetic data generation
+
+
+
+
+---
+
+🔹 Section 6: Evaluation of Classification — 5 Questions
+
+22. What does a confusion matrix measure?
+A) Distance between clusters
+B) Accuracy of regression models
+C) Classification performance
+D) Dimensionality
+
+
+23. What is precision?
+A) TP / (TP + FN)
+B) TP / (TP + FP)
+C) TN / (TN + FP)
+D) FP / (TP + FP)
+
+
+24. Which of the following is not a classification metric?
+A) Accuracy
+B) Recall
+C) RMSE
+D) F1-score
+
+
+25. What does the ROC curve show?
+A) Precision vs Recall
+B) TPR vs FPR
+C) Accuracy over time
+D) Sensitivity vs Specificity
+
+
+26. When is F1-score preferred over accuracy?
+A) When classes are balanced
+B) When only precision matters
+C) When recall is low
+D) When dealing with imbalanced data
+
+
+
+
+---
+
+🔹 Section 7: Encoding & Scaling — 4 Questions
+
+27. Which encoding is suitable for nominal categories?
+A) Label Encoding
+B) One-Hot Encoding
+C) Ordinal Encoding
+D) Frequency Encoding
+
+
+28. Which encoding technique may introduce unintended ordinal relationships?
+A) One-Hot Encoding
+B) Binary Encoding
+C) Label Encoding
+D) Hash Encoding
+
+
+29. Why is feature scaling important?
+A) To reduce dataset size
+B) To improve accuracy on categorical data
+C) To ensure features contribute equally
+D) To increase feature variance
+
+
+30. Which of the following is a feature scaling technique?
+A) PCA
+B) SMOTE
+C) Min-Max Scaling
+D) Cross-validation

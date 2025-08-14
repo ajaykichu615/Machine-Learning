@@ -1,0 +1,9 @@
+Polynomial Regression
+---------------------
+
+When the data shows a non-linear relationships, we use curve-like model instead of linear model by
+using Polynomial Regression. It is a type of regression technique that models the relationship between the 
+independent and dependent variable as an nth degree polynomial. It is an extension of Linear Regression,
+where instead of fitting a straight line, we fit a curve.
+
+y=m1x+ m2x^2 + ..+ c

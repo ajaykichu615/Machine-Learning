@@ -1,0 +1,38 @@
+NLP (Natural Language Processing)
+---------------------------------
+
+1. Count Vectorizer
+
+Turns text into numbers.
+Counts words in documents.
+Create a bag of words by measuring word occurrence frequency,
+
+
+I played Football. I usually plays football.
+She played cricket.
+They are playing both cricket and football.
+
+
+play football cricket 
+ 2     2         0
+ 1     0         1
+ 1     1         1
+
+
+
+Steps in text preprocessing:
+---------------------------
+
+1. Lowercasing
+2. Removing punctuation
+3. Stop word removal - remove common words like 'is', 'the, 'and' etc.
+4. Tokenization - split text into words or tokens
+5. Stemming and Lemmatization (Text normalization) - Reduce words to their root form or base form. 'playing'----> 'play'
+	
+	Stemming: When speed is prioritized or for simple normalization (large-scale search, quick indexing).
+
+	Lemmatization: When linguistic accuracy matters, or for advanced tasks like information retrieval, sentiment 	analysis, translation, and chatbots.
+
+
+
+2. Tf-idf

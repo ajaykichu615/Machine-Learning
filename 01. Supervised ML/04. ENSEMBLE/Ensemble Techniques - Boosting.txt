@@ -1,0 +1,13 @@
+How Boosting Works (Step-by-Step):
+
+1. Train a weak model (e.g., a small decision tree) on the full data.
+
+2. Check where it went wrong (misclassified or high error).
+
+3. Give more weight to those wrong points.
+
+4. Train the next model to focus on those errors.
+
+5. Repeat this process for several rounds.
+
+6. Combine all models to make a strong final model.

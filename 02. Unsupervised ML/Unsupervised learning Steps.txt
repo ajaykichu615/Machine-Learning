@@ -1,0 +1,89 @@
+Steps of K-Means Algorithm:
+
+1. Choose the number of clusters (K)
+
+You decide how many groups (K) you want to find.
+
+
+2. Initialize K centroids randomly
+
+A centroid is like the "center" of a cluster. Pick K random data points as initial centroids.
+
+
+3. Assign each data point to the nearest centroid
+
+Use distance (usually Euclidean distance) to find which centroid is closest to each point.
+
+
+4. Update the centroids
+
+For each cluster, compute the average (mean) of all points in that cluster.
+
+Move the centroid to this new average point.
+
+
+5. Repeat steps 3 and 4
+
+Keep assigning points and updating centroids until:
+
+The centroids stop changing (or)
+
+A maximum number of iterations is reached
+
+
+
+---
+
+🔁 Example
+
+Imagine 2D data of students’ marks in Math and Science:
+
+Student	Math	Science
+
+A	90	95
+B	88	92
+C	30	40
+D	35	38
+
+
+If we choose K = 2, the algorithm might cluster:
+
+Group 1: High scorers (A, B)
+
+Group 2: Low scorers (C, D)
+
+
+
+---
+
+📈 Visual Intuition:
+
+1. Plot all data points on a graph.
+
+
+2. Place K dots (centroids) at random locations.
+
+
+3. Color points based on their nearest centroid.
+
+
+4. Move centroids to the center of their groups.
+
+
+5. Repeat until centroids stop moving.
+
+---
+
+
+Elbow method - to find Optimal K:
+
+We calculate inertia (sum of squared distances of samples to their closest cluster center) for different values of K.
+
+When K increases, inertia always decreases (more clusters = closer points).
+
+But after a point, the gain is not significant.
+
+That point is the "elbow" — where the curve bends.
+
+Choose K at the elbow.
+

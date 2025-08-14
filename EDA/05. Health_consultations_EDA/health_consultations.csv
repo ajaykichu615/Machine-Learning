@@ -1,0 +1,1516 @@
+Booking_ID,Patient_Name,Consultation_Date,Doctor_Specialty,Consultation_Fee,Duration_Min,Rating,Booking_Platform,Is_Followup,Payment_Status
+BKG2000,Shannon Rodriguez,2024-11-11,ENT,574.51,40.0,4,Phone,1,Pending
+BKG2001,Christopher Bush,2023-09-08,Cardiologist,479.26,69.0,4,App,1,Pending
+BKG2002,Emily Mosley,2023-12-18,Cardiologist,597.15,69.0,4,Walk-in,0,Refunded
+BKG2003,Adam Lawrence,2024-02-27,ENT,,28.0,3,Phone,1,Refunded
+BKG2004,Jessica Lester,2023-08-14,General Physician,464.88,58.0,2,Website,1,Pending
+BKG2005,Mr. Mark Edwards,2024-05-23,Dermatologist,464.88,72.0,3,App,0,Paid
+BKG2006,Thomas Calderon,2024-09-01,Dermatologist,736.88,31.0,5,Walk-in,1,Paid
+BKG2007,James Stewart,2024-12-24,Dermatologist,615.12,33.0,3,App,0,Refunded
+BKG2008,James Walker,2024-03-15,ENT,429.58,85.0,3,Website,1,Pending
+BKG2009,Ryan Williams,2023-07-20,Cardiologist,581.38,39.0,3,App,0,Paid
+BKG2010,Elizabeth Hall,32-13-2022,ENT,430.49,67.0,3,App,1,Refunded
+BKG2011,Ashley Ortiz,2024-07-28,ENT,Five Hundred,40.0,4,Phone,1,Unpaid
+BKG2012,Brandon Sanchez,2023-09-10,Orthopedic,536.29,Ninety,4,Website,1,Refunded
+BKG2013,Joseph Galvan,2024-02-10,Cardiologist,10000,28.0,4,Website,1,Unpaid
+BKG2014,Joseph Adams,2024-01-26,Orthopedic,241.26,300,3,Website,0,Refunded
+BKG2015,Stacey Arnold,2024-07-05,Psychiatrist,415.66,54.0,4,App,0,Pending
+BKG2016,Tyler Gilbert,2024-06-15,Cardiologist,348.08,64.0,3,Website,0,Pending
+BKG2017,Jennifer Page,2025-05-24,Cardiologist,547.14,64.0,4,Website,0,Pending
+BKG2018,Justin Gay,2024-06-01,Cardiologist,363.8,27.0,3,Website,0,Pending
+BKG2019,Richard Mayo,2025-02-22,Dermatologist,288.15,72.0,3,Phone,0,Unpaid
+BKG2020,Nicole Weber,2023-07-16,Dermatologist,719.85,56.0,4,Website,0,Refunded
+BKG2021,Paul Peterson,2023-07-18,Orthopedic,466.13,84.0,5,App,1,Pending
+BKG2022,Cody Avila,2024-05-25,Orthopedic,510.13,66.0,2,Phone,1,Paid
+BKG2023,Sharon Suarez,2025-04-29,Cardiologist,286.29,54.0,4,Website,1,Paid
+BKG2024,Mr. Robert Castillo,2023-07-10,Orthopedic,418.34,42.0,3,Website,1,Paid
+BKG2025,Steven Smith,2024-10-20,Dermatologist,516.64,26.0,3,Phone,0,Refunded
+BKG2026,Emily Ford,2024-06-22,ENT,327.35,79.0,1,Website,0,Paid
+BKG2027,Catherine Ferguson,2024-04-26,ENT,556.35,13.0,3,App,0,Paid
+BKG2028,David Jefferson,2025-01-10,ENT,409.9,29.0,3,App,1,Unpaid
+BKG2029,Calvin Rogers,2024-04-29,Orthopedic,456.25,56.0,2,Website,0,Refunded
+BKG2030,James Robbins,2025-02-12,Psychiatrist,409.74,24.0,3,App,1,Refunded
+BKG2031,Robin Watkins,2024-07-17,Dermatologist,777.84,79.0,5,Phone,0,Paid
+BKG2032,Candace Thompson,2024-08-11,Psychiatrist,497.98,56.0,2,Website,0,Refunded
+BKG2033,Janice Arias,2024-09-05,Orthopedic,341.34,,4,Phone,0,Unpaid
+BKG2034,Robin Carson,2024-08-07,General Physician,623.38,84.0,3,App,0,Unpaid
+BKG2035,Richard Mason,2023-06-21,Cardiologist,316.87,18.0,4,Website,1,Pending
+BKG2036,Candace Jackson,2024-11-10,Dermatologist,531.33,25.0,3,Phone,1,Unpaid
+BKG2037,Kevin Johnson,2024-01-26,ENT,206.05,78.0,2,App,0,Pending
+BKG2038,Elizabeth Jackson,2025-05-14,Psychiatrist,300.77,70.0,2,Website,1,Paid
+BKG2039,Donna Castro,2024-03-02,General Physician,529.53,,2,Walk-in,0,Pending
+BKG2040,Alexandra Martin,2024-12-09,General Physician,610.77,59.0,2,App,0,Pending
+BKG2041,Maria Alvarez,2024-08-15,Dermatologist,525.71,12.0,4,App,0,Paid
+BKG2042,Patrick Brown,2024-09-09,Dermatologist,482.65,86.0,4,Walk-in,0,Pending
+BKG2043,Daniel Holmes DDS,2023-07-30,General Physician,454.83,79.0,4,Walk-in,1,Unpaid
+BKG2044,Miss Leslie Travis,2024-12-11,Cardiologist,278.22,60.0,4,Phone,0,Paid
+BKG2045,Richard Richardson,2023-09-20,Cardiologist,392.02,28.0,2,App,0,Refunded
+BKG2046,David Williams,2023-08-03,Psychiatrist,430.9,51.0,3,Walk-in,1,Pending
+BKG2047,James Webb,2023-07-05,Cardiologist,658.57,44.0,3,Website,0,Unpaid
+BKG2048,Brian Martinez,2023-07-29,General Physician,551.54,55.0,3,App,1,Refunded
+BKG2049,Raymond Nelson,2024-02-29,General Physician,235.54,35.0,3,Phone,0,Paid
+BKG2050,Dustin Garcia,2025-03-03,Orthopedic,548.61,78.0,3,Walk-in,0,Paid
+BKG2051,Laura Gonzalez,2023-09-17,General Physician,442.24,73.0,3,App,0,Paid
+BKG2052,Stephen Brown Jr.,2024-09-18,Cardiologist,398.46,46.0,3,App,0,Unpaid
+BKG2053,Jeffrey Pratt,2023-07-30,ENT,591.75,58.0,4,Walk-in,0,Refunded
+BKG2054,Tracy Fisher,2024-11-15,Psychiatrist,654.65,30.0,4,Walk-in,0,Paid
+BKG2055,Jennifer Holland,2024-06-30,Orthopedic,639.69,83.0,3,Walk-in,1,Unpaid
+BKG2056,Timothy Bates,2025-03-21,Cardiologist,374.12,73.0,5,App,0,Unpaid
+BKG2057,Gary Hodge,2024-11-29,Psychiatrist,453.62,14.0,5,Walk-in,1,Refunded
+BKG2058,Aimee Burnett,2025-04-23,Cardiologist,549.69,79.0,3,Walk-in,1,Paid
+BKG2059,Christina Ponce,2025-03-25,Orthopedic,646.33,13.0,3,App,0,Paid
+BKG2060,Patrick Harmon Jr.,2023-11-19,General Physician,428.12,48.0,3,App,1,Pending
+BKG2061,Erika Riddle,2024-10-20,ENT,472.15,44.0,5,Phone,0,Paid
+BKG2062,Michael Dalton,2023-07-31,Orthopedic,334.05,10.0,4,Website,1,Refunded
+BKG2063,Margaret Sanchez,2024-06-08,General Physician,320.57,33.0,2,App,0,Unpaid
+BKG2064,Emily Mcclure,2024-12-11,Orthopedic,621.88,66.0,3,Website,1,Refunded
+BKG2065,Jamie Riggs,2024-01-03,Dermatologist,703.44,79.0,3,Phone,1,Paid
+BKG2066,Angela Miller,2023-08-20,ENT,489.2,50.0,3,Phone,0,Unpaid
+BKG2067,Shawn Cox,2024-04-28,Cardiologist,650.53,63.0,2,Walk-in,1,Refunded
+BKG2068,Brandi Jackson,2024-05-27,Cardiologist,554.25,55.0,4,Phone,0,Paid
+BKG2069,Latasha Martin,2025-01-18,ENT,403.23,69.0,4,Walk-in,0,Paid
+BKG2070,Vincent West,2025-02-28,Dermatologist,554.21,69.0,4,Walk-in,0,Paid
+BKG2071,Stephen Diaz,2024-07-02,General Physician,730.71,66.0,4,App,0,Pending
+BKG2072,Brittany Garcia,2023-12-12,Cardiologist,494.63,40.0,4,App,0,Pending
+BKG2073,John Walls,2024-10-30,Dermatologist,734.7,33.0,3,Website,1,Pending
+BKG2074,Angela Owen,2025-01-10,Cardiologist,107.04,45.0,4,Walk-in,1,Unpaid
+BKG2075,Diana Watson,2024-08-11,Psychiatrist,623.29,39.0,2,Walk-in,1,Refunded
+BKG2076,Jason Bauer,2023-12-12,General Physician,513.06,33.0,4,Website,0,Unpaid
+BKG2077,John Bowman,2024-11-19,Psychiatrist,455.15,39.0,2,Walk-in,1,Unpaid
+BKG2078,Rachel Wood,2024-05-29,ENT,513.76,16.0,4,Phone,1,Paid
+BKG2079,Kimberly Ramsey,2024-05-07,General Physician,201.86,44.0,3,Walk-in,1,Paid
+BKG2080,Christopher Tanner,2024-03-09,Dermatologist,467.05,64.0,2,Walk-in,1,Unpaid
+BKG2081,Jessica Carter,2024-06-28,General Physician,553.57,23.0,2,Walk-in,1,Refunded
+BKG2082,Mary Murphy,2025-04-03,General Physician,721.68,19.0,1,App,0,Pending
+BKG2083,Tracy Garrett,2024-08-12,Dermatologist,422.26,89.0,4,Phone,0,Unpaid
+BKG2084,Christopher Callahan,2023-12-13,ENT,378.73,25.0,4,Walk-in,1,Unpaid
+BKG2085,Joseph Long,2025-01-25,General Physician,424.74,63.0,3,Phone,0,Refunded
+BKG2086,Joseph Nelson,2023-09-28,ENT,637.31,86.0,2,Phone,0,Refunded
+BKG2087,Thomas Reese,2024-01-28,ENT,549.31,79.0,2,Phone,1,Unpaid
+BKG2088,Vickie Cummings,2024-02-26,ENT,420.54,53.0,1,Website,1,Paid
+BKG2089,Brittany Holland,2025-04-08,Cardiologist,576.99,82.0,2,Walk-in,0,Paid
+BKG2090,Carrie Nelson,2024-06-26,Orthopedic,514.56,54.0,4,App,1,Unpaid
+BKG2091,Christine Bishop,2024-11-04,ENT,645.3,65.0,3,App,0,Paid
+BKG2092,Hannah Cruz,2025-04-15,Dermatologist,394.69,66.0,3,App,0,Refunded
+BKG2093,Amber Reyes,2024-03-26,Orthopedic,,30.0,2,App,1,Pending
+BKG2094,Stacy Romero,2024-05-11,ENT,441.18,77.0,3,Walk-in,0,Refunded
+BKG2095,Henry Glass,2024-01-01,Dermatologist,280.47,59.0,3,App,0,Pending
+BKG2096,Kristy Branch,2024-06-04,Dermatologist,544.42,42.0,4,Phone,0,Unpaid
+BKG2097,Amanda Mcguire,2024-07-05,Psychiatrist,539.16,,3,Website,1,Unpaid
+BKG2098,Cody Stewart,2024-01-06,Psychiatrist,500.77,79.0,2,App,1,Pending
+BKG2099,William Leon,2024-11-06,General Physician,464.81,24.0,3,Phone,1,Paid
+BKG2100,Krista Zavala,2023-12-25,ENT,287.69,41.0,3,App,1,Unpaid
+BKG2101,Heather Miller,2025-06-15,ENT,436.9,84.0,3,Walk-in,0,Pending
+BKG2102,Kelly Moss,2024-09-25,Orthopedic,448.59,29.0,5,Phone,1,Paid
+BKG2103,Kimberly Lane DDS,2023-11-08,Dermatologist,379.66,24.0,4,Walk-in,1,Pending
+BKG2104,Joseph Jones,2023-08-11,ENT,475.81,57.0,3,App,1,Unpaid
+BKG2105,Elizabeth Hart,2023-11-07,General Physician,560.61,80.0,3,Phone,1,Unpaid
+BKG2106,Christopher Knox,2023-09-29,Cardiologist,782.93,30.0,3,Phone,0,Refunded
+BKG2107,Joseph Nguyen,2023-07-23,Dermatologist,526.19,51.0,3,Phone,0,Pending
+BKG2108,Melinda Edwards,2025-03-28,Cardiologist,538.63,35.0,4,App,0,Paid
+BKG2109,Nancy Taylor,2023-07-20,General Physician,488.83,23.0,4,Website,1,Unpaid
+BKG2110,John Moreno,2024-09-15,Psychiatrist,212.18,66.0,2,Website,1,Refunded
+BKG2111,Jeffrey Ferrell,2025-02-25,General Physician,496.02,46.0,3,Walk-in,0,Refunded
+BKG2112,Laura Mosley,2025-03-03,Cardiologist,509.03,67.0,3,Website,1,Paid
+BKG2113,Lawrence Moore,2024-02-11,Dermatologist,869.49,30.0,4,App,1,Unpaid
+BKG2114,Mary Marsh,2025-04-15,Orthopedic,471.15,78.0,4,Phone,0,Refunded
+BKG2115,Derrick Greene,2024-09-10,ENT,545.23,12.0,3,Phone,0,Paid
+BKG2116,Pamela Griffin,2024-08-07,General Physician,494.79,46.0,2,App,1,Paid
+BKG2117,Gail Kennedy,2024-08-19,Dermatologist,324.7,58.0,4,Phone,1,Pending
+BKG2118,Julie Lee,2024-02-21,ENT,671.42,28.0,2,Website,1,Pending
+BKG2119,Daniel Simmons,2024-09-10,Psychiatrist,612.79,21.0,3,Walk-in,0,Unpaid
+BKG2120,Russell Hess,2025-01-13,Psychiatrist,618.65,70.0,2,App,0,Refunded
+BKG2121,John Reynolds,2023-10-06,ENT,363.59,50.0,4,Phone,0,Refunded
+BKG2122,Katherine Gallagher DVM,2023-12-26,Psychiatrist,710.42,42.0,3,App,0,Pending
+BKG2123,Jesse Jenkins,2023-08-01,Dermatologist,,59.0,3,Website,1,Unpaid
+BKG2124,Joel Wright,2023-09-20,General Physician,588.03,77.0,4,Phone,0,Refunded
+BKG2125,Jeremy Wilson,2023-08-08,Dermatologist,828.57,80.0,3,Phone,0,Paid
+BKG2126,Mrs. Linda Hall,2023-08-06,Dermatologist,351.42,42.0,3,Phone,1,Paid
+BKG2127,Sylvia Armstrong,2023-10-06,ENT,415.06,33.0,3,Phone,1,Paid
+BKG2128,Jennifer Ramos,2023-10-15,Orthopedic,514.95,70.0,1,App,1,Paid
+BKG2129,Catherine Garrett,2024-02-04,Orthopedic,424.48,70.0,4,Website,0,Pending
+BKG2130,Kimberly Barnett,2023-07-21,General Physician,267.4,37.0,2,Website,1,Unpaid
+BKG2131,Stacy Gallagher,2024-11-30,ENT,510.28,67.0,3,Walk-in,1,Paid
+BKG2132,Sara Shields DDS,2024-09-07,Orthopedic,340.65,52.0,3,App,0,Paid
+BKG2133,Joshua Strong,2023-07-08,Psychiatrist,571.04,50.0,4,Website,0,Refunded
+BKG2134,Eric Olson,2023-11-26,Orthopedic,362.09,48.0,4,App,1,Pending
+BKG2135,Mr. Eric Sampson,2023-08-23,Psychiatrist,732.49,58.0,3,App,0,Refunded
+BKG2136,Lisa Mcbride,2023-11-18,General Physician,382.51,26.0,1,Website,1,Refunded
+BKG2137,Ronnie Moran,2024-12-17,Dermatologist,451.69,79.0,4,Walk-in,1,Refunded
+BKG2138,Yvonne Stokes,2024-07-28,Dermatologist,622.03,79.0,3,Walk-in,0,Paid
+BKG2139,Steven Ward,2024-04-20,Orthopedic,315.37,74.0,4,Walk-in,1,Unpaid
+BKG2140,Sarah Davis,2024-02-11,Psychiatrist,534.12,83.0,4,Phone,0,Pending
+BKG2141,Terri James,2023-07-05,Cardiologist,696.07,14.0,4,Website,0,Paid
+BKG2142,Danielle Bates,2024-11-20,Cardiologist,258.88,11.0,3,Phone,0,Pending
+BKG2143,Scott Bass,2024-12-09,Cardiologist,527.7,31.0,3,Phone,1,Paid
+BKG2144,Angela Cohen,2025-03-24,Dermatologist,538.98,66.0,4,Phone,0,Unpaid
+BKG2145,Jamie Martin,2024-03-31,ENT,617.27,75.0,3,App,0,Unpaid
+BKG2146,Amanda Koch,2024-10-31,Dermatologist,314.46,83.0,2,App,1,Pending
+BKG2147,Jennifer Sanchez,2023-08-24,ENT,301.93,25.0,4,Website,1,Refunded
+BKG2148,Fernando Baker,2024-02-25,Psychiatrist,578.29,60.0,4,Website,1,Paid
+BKG2149,Ryan Gray,2025-02-10,Orthopedic,544.55,48.0,3,App,1,Pending
+BKG2150,Lauren Holloway,2023-10-14,Cardiologist,537.57,85.0,2,App,0,Refunded
+BKG2151,Teresa Alvarado,2024-08-02,Psychiatrist,551.97,49.0,3,Phone,0,Unpaid
+BKG2152,Brandon Mendoza,2023-08-01,Psychiatrist,398.0,47.0,4,Walk-in,0,Paid
+BKG2153,Alex Anderson,2024-10-23,Orthopedic,534.84,69.0,5,Walk-in,1,Unpaid
+BKG2154,Vanessa Mitchell,2023-06-28,Psychiatrist,543.96,68.0,3,Walk-in,1,Paid
+BKG2155,Laura Rivera,2024-09-11,Orthopedic,392.85,19.0,2,Walk-in,0,Refunded
+BKG2156,Michael Jones,2024-11-13,General Physician,779.87,73.0,4,Walk-in,1,Paid
+BKG2157,Wendy Lee,2023-12-28,Orthopedic,571.07,72.0,3,Phone,1,Refunded
+BKG2158,Jason Hess,2024-02-01,Cardiologist,321.3,58.0,3,Website,0,Paid
+BKG2159,Timothy Armstrong Jr.,2023-07-05,ENT,598.48,73.0,5,App,0,Pending
+BKG2160,Christopher Chandler,2024-06-03,ENT,353.8,41.0,2,Phone,1,Unpaid
+BKG2161,Mr. Timothy Stewart,2023-08-23,Cardiologist,618.06,16.0,4,Walk-in,1,Paid
+BKG2162,Cindy Perez,2024-06-05,ENT,673.79,30.0,2,App,1,Paid
+BKG2163,Diane Moore,2024-02-09,Orthopedic,376.9,29.0,3,Phone,0,Unpaid
+BKG2164,April Rodriguez,2024-05-17,General Physician,644.51,35.0,4,Walk-in,0,Paid
+BKG2165,Alisha Lewis,2024-10-22,ENT,561.92,77.0,3,Phone,0,Unpaid
+BKG2166,Juan Clayton,2024-01-27,General Physician,623.31,24.0,,App,0,Refunded
+BKG2167,Amanda Hanna,2023-07-14,Cardiologist,784.52,88.0,3,Website,0,Pending
+BKG2168,Robert Davis,2023-12-17,General Physician,463.19,23.0,3,Walk-in,1,Pending
+BKG2169,Jason Rodriguez,2023-08-27,Psychiatrist,386.94,36.0,3,App,1,Unpaid
+BKG2170,Justin Gray,2024-02-09,Dermatologist,366.57,49.0,3,App,1,Pending
+BKG2171,Lori Long,2024-06-17,Psychiatrist,377.63,67.0,3,Website,0,Unpaid
+BKG2172,Stephanie Marquez,2023-10-22,Cardiologist,488.43,37.0,2,Phone,0,Pending
+BKG2173,Tony Hood,2024-09-01,ENT,551.17,35.0,3,Website,0,Paid
+BKG2174,Thomas Choi,2024-04-04,ENT,541.5,72.0,3,Website,1,Paid
+BKG2175,Cindy Marsh,2023-09-25,General Physician,624.08,75.0,4,Phone,0,Pending
+BKG2176,Earl Johnson,2024-11-23,Orthopedic,501.95,34.0,4,Phone,0,Refunded
+BKG2177,Charles Hill,2024-09-08,Dermatologist,718.03,12.0,4,Phone,1,Pending
+BKG2178,James Robertson,2024-02-10,Orthopedic,460.3,81.0,1,App,0,Paid
+BKG2179,Kerry Porter,2025-03-04,Cardiologist,908.03,53.0,3,App,1,Pending
+BKG2180,Scott Lane,2024-07-10,ENT,593.85,51.0,4,Walk-in,0,Paid
+BKG2181,Christopher Davis,2023-09-20,General Physician,371.43,15.0,3,Walk-in,0,Refunded
+BKG2182,Michael Reed,2023-12-25,ENT,339.37,48.0,1,Website,1,Refunded
+BKG2183,Michael Chavez,2024-05-11,Orthopedic,572.37,61.0,4,Website,1,Pending
+BKG2184,Joseph Benitez,2025-02-02,Orthopedic,466.48,32.0,4,Walk-in,1,Paid
+BKG2185,Christine Austin MD,2024-09-18,Dermatologist,607.1,59.0,3,Website,1,Refunded
+BKG2186,Angela King,2024-02-05,Dermatologist,570.99,52.0,2,Phone,1,Unpaid
+BKG2187,Stacey Greene,2023-11-08,General Physician,489.08,28.0,4,App,1,Pending
+BKG2188,Angela Roberts,2023-11-15,Dermatologist,372.98,78.0,3,Walk-in,0,Unpaid
+BKG2189,Philip Davis,2023-12-31,Orthopedic,272.77,60.0,4,App,0,Pending
+BKG2190,Jeff English,2024-11-01,Orthopedic,433.02,20.0,4,Walk-in,1,Paid
+BKG2191,Yvonne Johnson,2024-08-06,Cardiologist,628.46,21.0,4,App,0,Paid
+BKG2192,Jason Brown,2023-09-19,Orthopedic,532.11,83.0,3,Walk-in,1,Unpaid
+BKG2193,Daniel Martinez,2024-07-11,General Physician,313.14,17.0,2,App,0,Paid
+BKG2194,Cassandra Leach,2025-03-17,Psychiatrist,525.98,33.0,4,Phone,1,Paid
+BKG2195,Timothy Cobb,2024-02-24,Cardiologist,557.8,50.0,4,Walk-in,0,Paid
+BKG2196,Dave Huang,2025-05-04,Cardiologist,367.42,45.0,4,Walk-in,0,Unpaid
+BKG2197,Catherine Norton,2023-09-08,General Physician,523.06,81.0,2,Walk-in,0,Paid
+BKG2198,Dwayne Harris,2025-01-23,General Physician,508.73,64.0,2,Phone,0,Refunded
+BKG2199,Kimberly Bishop,2024-08-28,Dermatologist,328.55,18.0,4,App,0,Pending
+BKG2200,Christopher Nolan,2024-10-06,Cardiologist,553.67,56.0,4,Walk-in,1,Refunded
+BKG2201,John Hale,2024-06-06,Dermatologist,584.12,24.0,5,App,1,Unpaid
+BKG2202,Charles Mitchell,2024-10-20,Orthopedic,662.46,57.0,4,Phone,1,Unpaid
+BKG2203,Shannon Fletcher,2025-01-04,Cardiologist,658.07,51.0,3,Website,0,Paid
+BKG2204,Latasha Meyer,2025-04-19,Cardiologist,293.35,69.0,4,Walk-in,1,Refunded
+BKG2205,Yolanda Mitchell,2023-07-25,ENT,359.33,79.0,4,Phone,0,Unpaid
+BKG2206,Michelle Colon,2024-09-05,Psychiatrist,577.26,21.0,3,App,0,Pending
+BKG2207,Jonathan Watkins,2025-02-14,Cardiologist,577.07,11.0,4,Walk-in,0,Unpaid
+BKG2208,John Johnson,2024-05-19,Orthopedic,577.26,16.0,2,App,1,Refunded
+BKG2209,Shelia Larson,2024-08-18,Dermatologist,1077.91,89.0,3,Website,0,Pending
+BKG2210,Melanie Green,2024-10-30,Dermatologist,585.63,12.0,4,Walk-in,1,Pending
+BKG2211,Heidi Maldonado,2023-09-11,ENT,670.33,12.0,3,Walk-in,1,Paid
+BKG2212,Jennifer Hughes,2025-01-17,Psychiatrist,643.1,36.0,3,App,0,Pending
+BKG2213,Terri Hall,2023-06-26,Orthopedic,597.71,49.0,3,Walk-in,0,Paid
+BKG2214,Carl Haynes,2023-08-08,Dermatologist,452.71,42.0,3,Phone,1,Paid
+BKG2215,Megan Goodwin DVM,2025-05-08,General Physician,613.85,10.0,3,Phone,1,Unpaid
+BKG2216,Mark Santos,2024-09-17,Orthopedic,384.08,17.0,3,Website,1,Unpaid
+BKG2217,Carol Davis,2023-12-27,Orthopedic,464.48,41.0,5,Phone,1,Paid
+BKG2218,Brittany Joseph,2024-07-20,Psychiatrist,427.2,57.0,3,Website,1,Refunded
+BKG2219,Diana Diaz,2025-03-30,Dermatologist,512.28,13.0,2,App,1,Paid
+BKG2220,Matthew Schneider,2024-11-29,Orthopedic,847.2,79.0,2,App,0,Refunded
+BKG2221,Hannah Estrada,2023-09-06,ENT,219.91,28.0,4,Website,1,Pending
+BKG2222,Angela Thomas,2023-12-27,ENT,602.94,41.0,3,Phone,1,Pending
+BKG2223,Keith Stevenson,2025-06-10,Dermatologist,258.09,18.0,4,Phone,1,Pending
+BKG2224,Cory Sullivan,2024-05-08,ENT,429.21,21.0,4,Website,1,Paid
+BKG2225,Michael Walker,2024-04-16,General Physician,663.34,20.0,4,Website,0,Refunded
+BKG2226,Juan Mccoy,2024-08-07,Psychiatrist,509.64,55.0,3,App,0,Paid
+BKG2227,Wanda Garcia,2024-04-19,ENT,338.34,25.0,4,Website,1,Pending
+BKG2228,Mr. Scott Howell,2024-11-12,ENT,392.7,10.0,3,Phone,1,Unpaid
+BKG2229,Timothy Cherry,2024-05-31,General Physician,601.94,72.0,5,Website,1,Pending
+BKG2230,Manuel Kelly,2023-10-26,Psychiatrist,390.45,30.0,4,Website,0,Pending
+BKG2231,Rebecca Garza,2023-11-10,Orthopedic,532.47,39.0,3,Website,0,Unpaid
+BKG2232,Marvin Roberson,2024-05-20,Psychiatrist,506.84,22.0,3,App,0,Refunded
+BKG2233,Chase Alvarez,2025-01-30,Cardiologist,402.26,43.0,2,Website,0,Pending
+BKG2234,Bianca Peterson,2024-08-31,Dermatologist,821.59,13.0,4,Walk-in,0,Refunded
+BKG2235,Kristina Roberts,2023-08-17,Dermatologist,595.09,37.0,3,Walk-in,0,Unpaid
+BKG2236,Daniel Brown,2023-08-07,Cardiologist,196.23,68.0,3,Walk-in,1,Unpaid
+BKG2237,Ryan White,2025-02-13,General Physician,527.97,36.0,3,Phone,0,Unpaid
+BKG2238,Ryan Ruiz,2025-05-10,Cardiologist,400.73,78.0,4,Phone,0,Paid
+BKG2239,Taylor Hicks,2025-01-08,Orthopedic,627.87,34.0,4,Website,1,Refunded
+BKG2240,David Jensen,2024-12-21,Orthopedic,381.12,12.0,4,Walk-in,0,Paid
+BKG2241,Jeffery Atkinson,2024-11-02,Dermatologist,482.79,77.0,4,App,1,Unpaid
+BKG2242,Tiffany Morris,2023-07-08,Orthopedic,575.75,34.0,2,Walk-in,0,Pending
+BKG2243,Tanya Bradley,2025-04-01,Dermatologist,629.86,29.0,2,Walk-in,1,Paid
+BKG2244,Shaun Murphy,2023-12-16,Cardiologist,,43.0,4,Phone,1,Pending
+BKG2245,Donna Townsend,2023-09-12,Cardiologist,449.82,35.0,3,Phone,1,Paid
+BKG2246,Andres Moore,2025-06-01,ENT,428.76,14.0,3,App,1,Refunded
+BKG2247,Brett Torres,2024-11-03,ENT,402.0,70.0,1,Phone,1,Pending
+BKG2248,Mary Johnson,2024-02-18,Cardiologist,764.82,18.0,3,App,0,Paid
+BKG2249,Briana Mckenzie,2023-09-23,Dermatologist,560.75,59.0,1,Phone,0,Unpaid
+BKG2250,Travis Calhoun,2024-11-16,Cardiologist,310.87,15.0,4,Walk-in,1,Unpaid
+BKG2251,Vanessa Harrison,2025-03-24,Cardiologist,637.68,69.0,3,Walk-in,1,Refunded
+BKG2252,Frank Choi,2025-05-15,General Physician,818.32,53.0,3,App,1,Refunded
+BKG2253,Beth Glass,2024-12-09,Cardiologist,654.87,20.0,1,App,0,Paid
+BKG2254,Michael Russell,2025-04-20,Orthopedic,272.09,75.0,4,Phone,1,Unpaid
+BKG2255,Brian Cooper,2025-01-24,Dermatologist,427.36,56.0,3,Phone,1,Pending
+BKG2256,Gregory Wright,2023-09-18,General Physician,690.04,82.0,4,App,1,Paid
+BKG2257,Natalie Wade,2023-07-14,ENT,393.85,12.0,4,App,1,Paid
+BKG2258,Brandon Abbott,2024-12-22,Psychiatrist,566.57,85.0,3,Walk-in,0,Unpaid
+BKG2259,Ryan Rodgers,2025-04-03,Dermatologist,616.2,39.0,5,Walk-in,1,Refunded
+BKG2260,John Levine,2023-07-04,Orthopedic,360.96,30.0,,App,1,Pending
+BKG2261,Amanda Johns,2023-08-07,Dermatologist,491.07,37.0,4,Walk-in,0,Refunded
+BKG2262,Craig Golden,2024-03-21,ENT,13.81,,4,Website,1,Paid
+BKG2263,Nicole Cole,2023-12-28,Orthopedic,346.34,42.0,3,Phone,1,Paid
+BKG2264,Christopher Nelson,2024-01-09,Orthopedic,462.11,44.0,3,Walk-in,0,Unpaid
+BKG2265,Cheryl Strickland,2024-10-20,Psychiatrist,312.83,61.0,2,Website,0,Refunded
+BKG2266,Susan Wilkinson,2024-06-16,Dermatologist,744.86,43.0,2,App,0,Paid
+BKG2267,Sarah Anthony,2024-10-22,Psychiatrist,285.48,50.0,,Walk-in,1,Paid
+BKG2268,Pamela Garcia,2024-10-14,Psychiatrist,433.99,60.0,3,App,1,Refunded
+BKG2269,Paul Dunn,2023-09-10,Dermatologist,519.61,56.0,4,Phone,0,Unpaid
+BKG2270,Michelle Jackson,2024-06-02,Cardiologist,716.19,67.0,4,App,0,Unpaid
+BKG2271,Maria Fowler,2024-02-27,Cardiologist,284.62,84.0,4,Website,0,Pending
+BKG2272,Ana Olson,2024-10-22,ENT,674.47,66.0,,App,1,Pending
+BKG2273,Tyler Ryan,2025-05-17,Psychiatrist,501.53,32.0,3,Website,1,Pending
+BKG2274,Nathan Gomez,2024-12-30,General Physician,352.77,57.0,1,Walk-in,0,Refunded
+BKG2275,Sean Phillips,2024-05-23,Psychiatrist,569.32,31.0,3,Walk-in,1,Pending
+BKG2276,Peter Howard,2023-06-26,Psychiatrist,529.86,26.0,2,Website,0,Pending
+BKG2277,Walter Miller,2023-09-02,Psychiatrist,409.97,78.0,1,Phone,1,Refunded
+BKG2278,Victoria Lawson,2023-11-18,ENT,510.47,20.0,3,Phone,1,Pending
+BKG2279,Kevin Calderon,2024-08-25,Cardiologist,442.2,24.0,4,Phone,1,Unpaid
+BKG2280,Shirley Mejia,2025-03-12,ENT,517.03,44.0,3,Walk-in,1,Paid
+BKG2281,Dana Shaw,2024-02-19,ENT,599.32,42.0,3,Walk-in,0,Unpaid
+BKG2282,Jennifer Smith,2024-05-12,ENT,737.9,25.0,4,Phone,1,Unpaid
+BKG2283,Amy Williams,2025-03-18,Cardiologist,314.33,43.0,3,App,1,Paid
+BKG2284,Sarah Newman,2023-12-31,Cardiologist,819.96,75.0,1,Phone,0,Unpaid
+BKG2285,Vanessa Murphy,2025-03-24,Psychiatrist,207.19,49.0,4,App,1,Paid
+BKG2286,James Schmitt,2024-01-09,ENT,477.23,37.0,4,Phone,0,Unpaid
+BKG2287,Gregory Moore,2024-07-31,General Physician,588.25,56.0,4,App,0,Refunded
+BKG2288,Suzanne Taylor,2023-12-09,Cardiologist,542.15,48.0,1,Walk-in,1,Refunded
+BKG2289,Maria Jones,2024-10-29,Dermatologist,406.6,79.0,4,Phone,1,Pending
+BKG2290,Andrew Sweeney,2024-12-01,Dermatologist,468.78,82.0,4,Phone,0,Refunded
+BKG2291,Angela Evans,2025-02-02,Dermatologist,426.05,29.0,3,Website,0,Paid
+BKG2292,Julie Lane,2023-08-18,Orthopedic,411.6,10.0,4,Phone,0,Pending
+BKG2293,Kimberly Wise,2023-11-15,Psychiatrist,627.44,81.0,4,App,1,Unpaid
+BKG2294,Michael Pope,2024-05-05,Dermatologist,553.55,72.0,3,Website,0,Refunded
+BKG2295,Jason Wall,2024-12-31,Psychiatrist,396.06,76.0,3,Phone,0,Pending
+BKG2296,Michael Delacruz,2024-02-15,Dermatologist,634.94,13.0,,Phone,0,Refunded
+BKG2297,Michelle Cuevas,2023-10-02,General Physician,546.09,67.0,4,Walk-in,1,Pending
+BKG2298,Margaret Downs,2025-01-30,Psychiatrist,621.93,34.0,3,Website,0,Paid
+BKG2299,Steven Gould,2024-09-27,Dermatologist,594.44,56.0,4,App,1,Paid
+BKG2300,Christine Phillips,2025-03-02,Cardiologist,375.65,47.0,3,Phone,1,Unpaid
+BKG2301,John York,2024-06-30,Psychiatrist,415.97,24.0,3,Walk-in,0,Pending
+BKG2302,Elizabeth Richardson,2024-01-13,Orthopedic,612.09,72.0,3,Phone,1,Paid
+BKG2303,David Wilson,2024-09-11,Cardiologist,591.56,30.0,5,Website,0,Unpaid
+BKG2304,Glenda Dominguez,2024-07-11,Cardiologist,496.86,66.0,5,App,1,Pending
+BKG2305,Justin Young,2024-12-22,ENT,517.6,62.0,3,Walk-in,1,Unpaid
+BKG2306,Robert Kane,2025-02-22,Orthopedic,691.65,55.0,3,Phone,0,Paid
+BKG2307,Jaclyn Fischer MD,2025-03-04,Cardiologist,411.26,23.0,3,App,0,Unpaid
+BKG2308,Kevin Glover,2024-12-04,Cardiologist,582.06,85.0,,Phone,0,Pending
+BKG2309,John Baxter,2025-01-07,Dermatologist,469.67,26.0,,Phone,1,Refunded
+BKG2310,Ivan Cook,2024-07-04,Dermatologist,467.35,48.0,4,Website,1,Paid
+BKG2311,Linda Gordon DDS,2025-02-18,Psychiatrist,664.82,18.0,4,Website,0,Pending
+BKG2312,Catherine Romero,2023-06-25,Psychiatrist,623.81,86.0,4,Phone,0,Pending
+BKG2313,Matthew Jones,2023-10-13,Psychiatrist,622.03,88.0,3,Walk-in,1,Unpaid
+BKG2314,Charles Kramer,2024-05-17,Dermatologist,695.82,15.0,2,Website,1,Paid
+BKG2315,Jose Thomas,2025-01-08,Psychiatrist,503.15,32.0,3,Website,1,Refunded
+BKG2316,John Evans,2023-09-28,Cardiologist,602.29,68.0,4,Website,0,Refunded
+BKG2317,Thomas Nguyen,2025-05-06,Dermatologist,453.46,,4,Website,1,Unpaid
+BKG2318,Sarah Neal,2024-07-31,Psychiatrist,548.62,47.0,3,App,0,Paid
+BKG2319,Karen Thompson,2023-10-18,Cardiologist,480.48,23.0,5,Phone,1,Refunded
+BKG2320,Isaac Fitzgerald,2023-07-24,Psychiatrist,514.55,81.0,2,App,1,Paid
+BKG2321,Frederick Garrett,2025-02-25,General Physician,589.27,71.0,3,App,0,Unpaid
+BKG2322,Wendy Watts,2025-02-17,Psychiatrist,377.27,44.0,4,Phone,0,Paid
+BKG2323,Lucas Griffin,2025-05-31,General Physician,813.86,28.0,4,Website,0,Paid
+BKG2324,Jo Stevens,2025-05-02,Psychiatrist,349.1,39.0,4,Walk-in,1,Paid
+BKG2325,Kevin Parrish,2023-09-22,ENT,317.87,87.0,3,Website,1,Unpaid
+BKG2326,Dr. Catherine Mckinney,2025-06-03,ENT,673.72,34.0,2,Website,1,Unpaid
+BKG2327,Joshua Miller,2025-04-25,Orthopedic,618.75,49.0,4,Website,0,Unpaid
+BKG2328,Caitlyn Fischer,2024-04-24,ENT,593.62,23.0,3,Website,1,Refunded
+BKG2329,Nancy Molina,2023-08-26,ENT,594.25,35.0,2,Walk-in,0,Pending
+BKG2330,Devin Warner,2023-07-13,Psychiatrist,498.16,31.0,4,App,0,Paid
+BKG2331,Amber Herrera,2025-05-13,Dermatologist,365.41,57.0,3,Walk-in,0,Pending
+BKG2332,Jennifer Turner,2023-11-27,Dermatologist,511.37,60.0,4,Phone,1,Paid
+BKG2333,Christopher Baker,2025-06-15,General Physician,398.43,12.0,4,Website,1,Paid
+BKG2334,Jessica Hicks,2023-07-31,Dermatologist,646.27,51.0,2,Walk-in,0,Paid
+BKG2335,Deborah Buchanan DDS,2024-09-01,Cardiologist,477.94,28.0,1,Phone,1,Unpaid
+BKG2336,Judith Mccullough,2023-09-08,Orthopedic,376.18,82.0,4,Walk-in,0,Refunded
+BKG2337,Elizabeth Munoz,2024-08-12,ENT,451.79,37.0,4,Website,0,Unpaid
+BKG2338,John Rice,2023-10-11,Orthopedic,561.94,54.0,4,Website,1,Paid
+BKG2339,Christopher Maxwell,2024-10-26,Cardiologist,415.44,80.0,4,Phone,0,Pending
+BKG2340,Brenda Nguyen,2025-06-10,ENT,376.67,87.0,4,Walk-in,0,Paid
+BKG2341,Benjamin Downs,2023-08-25,General Physician,536.55,72.0,5,Website,1,Paid
+BKG2342,Billy Jackson,2023-08-03,Cardiologist,536.74,82.0,3,Phone,0,Refunded
+BKG2343,Kristina Liu,2023-12-10,Cardiologist,423.96,28.0,3,Walk-in,0,Paid
+BKG2344,Mary Dorsey,2024-03-02,Orthopedic,429.34,56.0,3,Walk-in,0,Unpaid
+BKG2345,Crystal Atkinson,2023-11-21,Psychiatrist,534.81,23.0,2,Phone,0,Refunded
+BKG2346,Jennifer Peterson,2023-07-18,Orthopedic,282.79,47.0,3,Walk-in,0,Refunded
+BKG2347,Donna Harris,2025-06-09,Orthopedic,288.88,62.0,3,Walk-in,0,Refunded
+BKG2348,Leslie Murphy,2023-10-09,Dermatologist,392.23,70.0,5,Website,0,Paid
+BKG2349,Heather Morris,2025-05-03,Cardiologist,467.98,45.0,3,Website,1,Refunded
+BKG2350,Michael Hall,2024-03-24,Orthopedic,546.64,49.0,3,Website,1,Refunded
+BKG2351,Bryan Molina MD,2024-09-10,Cardiologist,721.3,39.0,3,Phone,0,Unpaid
+BKG2352,Cassandra Hoffman,2025-02-16,Dermatologist,628.65,18.0,2,App,0,Pending
+BKG2353,Jessica Stokes,2023-10-15,Cardiologist,476.01,73.0,1,Walk-in,1,Unpaid
+BKG2354,Kathleen Mcintyre,2025-02-12,Orthopedic,497.15,42.0,3,Phone,1,Unpaid
+BKG2355,George Gonzales,2025-02-13,Cardiologist,349.62,61.0,2,App,1,Pending
+BKG2356,Matthew Campbell,2024-04-04,ENT,497.22,23.0,4,App,1,Pending
+BKG2357,Mary Kennedy,2024-10-16,Dermatologist,456.7,,4,Phone,1,Refunded
+BKG2358,Susan Rice,2024-04-05,Psychiatrist,548.41,62.0,4,App,0,Unpaid
+BKG2359,Elizabeth Salazar,2025-01-08,Cardiologist,375.92,68.0,4,Website,1,Paid
+BKG2360,Victoria Shaw,2023-12-14,Orthopedic,577.9,87.0,3,Phone,1,Unpaid
+BKG2361,Jason Daniels,2023-12-12,Dermatologist,729.91,50.0,4,Walk-in,1,Pending
+BKG2362,Craig Chavez,2025-02-23,Orthopedic,483.69,77.0,4,Website,0,Refunded
+BKG2363,Mr. Gregory Carter,2023-10-17,Orthopedic,560.26,77.0,2,Walk-in,0,Refunded
+BKG2364,Kevin Miller,2025-05-23,Cardiologist,,17.0,4,App,0,Refunded
+BKG2365,Tammy Jimenez,2024-10-17,Orthopedic,439.82,11.0,3,Website,0,Paid
+BKG2366,Jordan Padilla,2024-11-10,Cardiologist,533.61,50.0,4,Walk-in,0,Paid
+BKG2367,Allen Burnett II,2024-05-20,Psychiatrist,501.89,64.0,,Phone,0,Pending
+BKG2368,William Cooley,2023-12-16,ENT,514.65,25.0,1,App,1,Refunded
+BKG2369,Ariel Taylor,2024-09-21,Orthopedic,384.05,71.0,4,Walk-in,0,Unpaid
+BKG2370,Ryan Rogers,2024-08-31,Orthopedic,503.68,57.0,4,App,0,Refunded
+BKG2371,Robert Johnson,2024-04-16,Orthopedic,574.7,39.0,5,Walk-in,1,Unpaid
+BKG2372,Destiny White,2024-09-08,General Physician,717.67,21.0,3,Phone,0,Unpaid
+BKG2373,Thomas Rosales,2024-08-15,General Physician,643.89,44.0,4,Website,1,Paid
+BKG2374,Rhonda Herring,2024-03-05,Dermatologist,822.98,20.0,2,Walk-in,1,Refunded
+BKG2375,Lisa Brewer,2025-04-04,ENT,384.9,73.0,3,App,0,Pending
+BKG2376,John Carter,2024-04-01,ENT,630.85,59.0,2,Phone,1,Refunded
+BKG2377,Deborah Hernandez,2023-11-04,General Physician,527.5,30.0,5,Website,1,Refunded
+BKG2378,Kathy Wilcox,2023-10-03,Dermatologist,828.47,78.0,4,App,1,Pending
+BKG2379,Donna Mata,2023-09-15,General Physician,378.76,57.0,4,Phone,1,Pending
+BKG2380,Lisa Johnson,2023-09-05,Psychiatrist,374.04,29.0,5,App,0,Refunded
+BKG2381,Jason Castaneda,2024-01-30,Dermatologist,410.09,76.0,2,Phone,1,Pending
+BKG2382,Robert Baldwin,2024-07-13,ENT,181.42,53.0,3,Website,0,Unpaid
+BKG2383,Nicole Robinson,2025-01-16,ENT,421.14,42.0,2,Website,1,Paid
+BKG2384,David Barrera,2023-11-04,General Physician,386.13,82.0,3,App,1,Pending
+BKG2385,Abigail James,2024-12-17,Psychiatrist,522.56,70.0,3,Phone,1,Unpaid
+BKG2386,Deborah Brown,2024-07-27,General Physician,551.26,18.0,3,Walk-in,0,Paid
+BKG2387,Sarah Perry DDS,2024-05-01,Cardiologist,781.43,77.0,3,Website,0,Pending
+BKG2388,Jessica Anderson,2024-03-09,Cardiologist,642.56,44.0,2,Walk-in,0,Paid
+BKG2389,Jacob Bennett MD,2024-09-02,Psychiatrist,413.46,74.0,2,Walk-in,1,Refunded
+BKG2390,Mr. Fernando Jones,2023-07-13,Orthopedic,365.24,17.0,2,App,1,Pending
+BKG2391,Jasmine Buckley,2024-05-30,Orthopedic,573.79,54.0,5,App,1,Unpaid
+BKG2392,Barbara Johns,2023-10-10,Cardiologist,301.97,56.0,4,App,1,Unpaid
+BKG2393,Allison Harris,2024-08-06,Cardiologist,774.72,49.0,5,Phone,0,Paid
+BKG2394,Jill Williams,2024-05-12,Orthopedic,676.92,85.0,3,Website,1,Unpaid
+BKG2395,Deborah Crawford,2025-02-18,Dermatologist,429.62,63.0,3,Website,0,Unpaid
+BKG2396,Robert Mcdonald,2023-10-14,Orthopedic,243.03,85.0,4,Walk-in,1,Pending
+BKG2397,Sara Mcpherson,2024-03-18,General Physician,703.08,55.0,3,App,0,Paid
+BKG2398,James Pacheco,2024-08-04,Dermatologist,482.82,56.0,3,Phone,0,Unpaid
+BKG2399,Luis Baker,2024-04-12,General Physician,685.67,24.0,3,Website,1,Refunded
+BKG2400,Kelly Nicholson,2025-01-06,Cardiologist,260.84,28.0,2,Phone,1,Pending
+BKG2401,Francisco Gill,2024-10-08,Dermatologist,410.09,35.0,3,App,0,Unpaid
+BKG2402,Timothy Collins,2023-10-09,General Physician,500.79,61.0,3,App,1,Unpaid
+BKG2403,Jennifer George,2023-09-14,General Physician,507.05,31.0,4,Website,1,Unpaid
+BKG2404,Michael Mccarthy,2023-07-08,Dermatologist,432.49,30.0,2,Walk-in,0,Pending
+BKG2405,Jacob Griffin,2024-12-16,Psychiatrist,593.43,60.0,3,Walk-in,0,Pending
+BKG2406,Tabitha Nelson,2023-10-20,Orthopedic,339.86,47.0,4,App,0,Paid
+BKG2407,Christopher Koch,2023-11-08,ENT,478.64,29.0,2,App,0,Pending
+BKG2408,Kevin Mcdonald,2024-12-08,General Physician,518.04,38.0,3,Walk-in,1,Unpaid
+BKG2409,Edwin Knight,2024-12-22,Orthopedic,577.17,60.0,4,App,0,Unpaid
+BKG2410,Jenna Johnson,2025-05-08,ENT,606.74,13.0,2,Website,0,Refunded
+BKG2411,Kevin Roth,2025-02-17,Orthopedic,331.3,64.0,2,Website,0,Pending
+BKG2412,Angela Miller,2025-02-06,Cardiologist,269.88,80.0,3,Phone,1,Unpaid
+BKG2413,Diana Barton,2024-12-16,ENT,691.65,37.0,3,Walk-in,0,Refunded
+BKG2414,Nicholas Bailey,2024-02-09,Orthopedic,549.85,13.0,3,App,1,Paid
+BKG2415,Tiffany Hunter,2025-05-03,General Physician,387.73,31.0,4,Phone,0,Paid
+BKG2416,Charles Mendez DDS,2025-04-01,ENT,732.67,85.0,2,Website,0,Paid
+BKG2417,Ryan Larson,2023-12-02,Cardiologist,517.35,54.0,3,Walk-in,1,Unpaid
+BKG2418,Sara Martin,2025-03-20,Dermatologist,676.89,76.0,3,Website,0,Unpaid
+BKG2419,Whitney Chang,2023-11-01,General Physician,510.13,75.0,2,App,0,Paid
+BKG2420,Scott Foster,2024-08-11,Cardiologist,809.11,43.0,4,Phone,1,Refunded
+BKG2421,Paul Neal,2025-05-22,Cardiologist,763.3,64.0,3,App,0,Paid
+BKG2422,Tamara Jones,2025-03-05,ENT,462.66,10.0,3,App,0,Pending
+BKG2423,Victoria Garcia,2023-12-04,Orthopedic,645.74,81.0,2,Walk-in,0,Unpaid
+BKG2424,Kyle Fowler,2024-04-02,Dermatologist,596.81,,3,Walk-in,0,Unpaid
+BKG2425,Don Richardson,2024-11-16,General Physician,,15.0,3,App,1,Pending
+BKG2426,Jennifer Wall,2024-07-26,General Physician,355.26,34.0,4,Walk-in,0,Unpaid
+BKG2427,Alison Hansen,2025-03-22,Orthopedic,602.91,26.0,2,Phone,1,Pending
+BKG2428,Yvonne Gray,2024-09-17,Dermatologist,658.76,70.0,3,Phone,0,Paid
+BKG2429,Shannon Campbell,2023-11-09,ENT,236.19,21.0,3,App,1,Paid
+BKG2430,Jennifer Foster,2024-08-29,General Physician,322.51,15.0,4,Phone,0,Unpaid
+BKG2431,Mario Wilson,2023-11-29,Dermatologist,194.12,36.0,3,App,1,Unpaid
+BKG2432,Carrie Lewis,2023-11-17,ENT,459.59,17.0,4,Phone,0,Paid
+BKG2433,Jeffrey Figueroa,2023-10-05,ENT,607.63,74.0,4,Website,1,Pending
+BKG2434,Cristian Frye,2024-01-17,General Physician,725.35,66.0,4,App,1,Paid
+BKG2435,Andrea Butler,2023-07-06,Orthopedic,511.11,49.0,3,Phone,0,Pending
+BKG2436,Jose Wood,2023-09-10,Psychiatrist,744.29,23.0,3,Website,1,Refunded
+BKG2437,Austin Rich,2024-02-14,General Physician,292.98,44.0,4,App,0,Paid
+BKG2438,Cindy Monroe,2024-10-25,Cardiologist,244.49,57.0,,Phone,0,Pending
+BKG2439,Sarah Evans,2023-10-04,Cardiologist,491.67,65.0,4,Phone,0,Pending
+BKG2440,Adrian Thomas,2023-12-18,ENT,557.61,58.0,3,Website,0,Pending
+BKG2441,Rebecca Boyd,2024-03-30,Psychiatrist,495.1,22.0,2,Walk-in,0,Unpaid
+BKG2442,Kathryn Jenkins,2023-09-16,General Physician,189.88,70.0,3,Walk-in,1,Unpaid
+BKG2443,Richard Hays,2023-09-07,Cardiologist,486.63,58.0,4,Website,0,Refunded
+BKG2444,Scott Baird,2024-11-22,Cardiologist,304.33,55.0,3,Website,0,Refunded
+BKG2445,Edwin Fitzgerald,2025-04-23,General Physician,600.45,71.0,3,App,0,Pending
+BKG2446,Nathan Olson,2024-03-18,Dermatologist,554.99,17.0,4,Walk-in,0,Unpaid
+BKG2447,Levi Chen,2025-05-24,ENT,359.02,52.0,3,App,0,Pending
+BKG2448,Maria Williams MD,2023-10-25,General Physician,422.92,29.0,4,Phone,0,Unpaid
+BKG2449,Kevin Campbell,2025-05-07,Dermatologist,341.12,48.0,3,Website,1,Unpaid
+BKG2450,Tami Allen,2024-02-25,ENT,490.6,58.0,3,App,1,Refunded
+BKG2451,Nina Bentley,2024-03-18,Psychiatrist,643.27,73.0,3,Website,0,Pending
+BKG2452,Shelby Willis,2023-11-16,Orthopedic,352.14,71.0,4,App,1,Pending
+BKG2453,William Adams,2023-07-23,ENT,575.61,63.0,2,Phone,0,Unpaid
+BKG2454,Jason Robinson,2024-12-13,Psychiatrist,420.46,18.0,2,Phone,0,Unpaid
+BKG2455,Robert Ross,2023-08-25,Orthopedic,381.07,46.0,5,Walk-in,0,Paid
+BKG2456,Gary Dean,2025-05-29,Cardiologist,483.95,58.0,2,Walk-in,0,Refunded
+BKG2457,Daniel Taylor,2024-10-01,Cardiologist,344.71,50.0,3,Phone,0,Paid
+BKG2458,Angela Martinez,2025-04-14,Cardiologist,416.95,26.0,3,App,1,Unpaid
+BKG2459,Thomas Elliott,2023-08-14,ENT,320.32,30.0,3,Website,1,Pending
+BKG2460,Nicole Hobbs,2025-06-16,Dermatologist,794.71,60.0,4,Phone,1,Unpaid
+BKG2461,Dawn Jones,2025-01-21,Orthopedic,505.29,68.0,3,Phone,1,Paid
+BKG2462,Melissa Hernandez,2024-10-12,Cardiologist,395.04,48.0,3,App,0,Refunded
+BKG2463,Tony Curry,2025-04-08,General Physician,532.1,64.0,3,Phone,1,Unpaid
+BKG2464,Loretta Gray,2024-02-25,Orthopedic,483.15,50.0,4,Phone,0,Pending
+BKG2465,Thomas Williams,2024-12-29,Orthopedic,466.85,48.0,2,App,1,Paid
+BKG2466,Hannah Meza,2025-01-06,Dermatologist,592.13,22.0,3,Phone,1,Unpaid
+BKG2467,Stacy Beck,2025-02-07,Psychiatrist,613.63,73.0,2,Walk-in,1,Pending
+BKG2468,Richard Wood,2023-09-30,Dermatologist,420.42,20.0,3,Walk-in,1,Pending
+BKG2469,James Delacruz,2025-02-25,Cardiologist,413.63,28.0,3,Walk-in,0,Unpaid
+BKG2470,Anthony Weaver,2023-09-28,General Physician,458.74,20.0,2,Walk-in,1,Paid
+BKG2471,Kaitlin Davis,2023-10-05,General Physician,154.71,86.0,4,Phone,1,Pending
+BKG2472,Donna Miller,2024-01-06,Cardiologist,272.72,55.0,3,Website,0,Refunded
+BKG2473,Bradley Ellis,2024-10-23,General Physician,705.03,54.0,5,Walk-in,0,Paid
+BKG2474,Rhonda Baker,2025-05-29,Dermatologist,746.75,10.0,5,Walk-in,1,Pending
+BKG2475,Heather Moore,2024-10-21,ENT,462.64,49.0,3,Phone,0,Unpaid
+BKG2476,Brittany Paul,2023-12-31,Dermatologist,586.48,28.0,2,Phone,0,Unpaid
+BKG2477,Cody Matthews,2024-08-11,ENT,546.69,85.0,3,App,0,Paid
+BKG2478,Christopher Haynes DDS,2025-04-01,Cardiologist,961.83,81.0,4,Walk-in,1,Pending
+BKG2479,Jordan Santana,2023-09-05,General Physician,667.94,81.0,3,App,0,Pending
+BKG2480,Debra Johnson,2023-07-15,Orthopedic,480.81,70.0,2,Walk-in,1,Paid
+BKG2481,Amber Jenkins,2023-09-01,Psychiatrist,356.67,21.0,3,Website,1,Paid
+BKG2482,Danny Campos,2023-08-26,Orthopedic,259.03,70.0,4,Phone,1,Paid
+BKG2483,Lauren Gordon,2023-07-07,ENT,530.52,42.0,4,Phone,1,Refunded
+BKG2484,Crystal Brown,2024-12-23,Dermatologist,386.55,54.0,2,App,0,Refunded
+BKG2485,Sean Adams Jr.,2024-03-01,Dermatologist,286.66,78.0,4,App,1,Refunded
+BKG2486,Francisco Jimenez,2024-03-20,Dermatologist,403.01,17.0,3,Phone,0,Unpaid
+BKG2487,Amber Perez,2024-02-05,Dermatologist,337.77,34.0,3,Phone,1,Refunded
+BKG2488,Timothy Blake DDS,2024-03-30,Psychiatrist,753.07,55.0,4,Phone,0,Refunded
+BKG2489,Jacob Riley,2025-03-23,Cardiologist,632.25,39.0,3,Walk-in,1,Refunded
+BKG2490,Charles Barnes,2024-08-06,Dermatologist,498.8,56.0,3,Walk-in,0,Pending
+BKG2491,Jennifer Kramer,2024-12-03,ENT,721.99,58.0,1,Website,1,Refunded
+BKG2492,Antonio Taylor,2024-10-09,General Physician,511.61,56.0,4,Walk-in,1,Paid
+BKG2493,Tammy Roth,2025-02-11,Psychiatrist,370.81,27.0,4,Phone,0,Refunded
+BKG2494,Jeremy Walton,2024-09-28,ENT,728.47,75.0,4,Walk-in,1,Unpaid
+BKG2495,Eric Gonzalez,2025-05-21,ENT,580.84,77.0,4,App,1,Unpaid
+BKG2496,Jeffrey White,2025-03-09,Dermatologist,344.41,42.0,2,Phone,1,Refunded
+BKG2497,Travis Sexton,2024-05-29,General Physician,471.45,45.0,3,Walk-in,0,Paid
+BKG2498,David Smith,2024-01-11,Dermatologist,,28.0,3,Phone,1,Paid
+BKG2499,Rebecca Hernandez,2024-08-08,ENT,292.58,37.0,2,App,1,Pending
+BKG2500,Ralph Roberts,2025-02-01,Cardiologist,638.93,49.0,3,App,0,Paid
+BKG2501,Matthew Kerr,2024-08-04,Psychiatrist,786.41,85.0,5,Walk-in,0,Pending
+BKG2502,Christina Norton,2023-10-02,Cardiologist,290.21,24.0,1,Phone,0,Pending
+BKG2503,Charles Parker,2024-05-09,Psychiatrist,584.45,50.0,3,Website,0,Paid
+BKG2504,Molly Mitchell,2025-05-21,Dermatologist,402.4,48.0,3,App,0,Paid
+BKG2505,William Kirk,2024-07-23,Dermatologist,426.93,11.0,3,Website,1,Pending
+BKG2506,Rachel Herman,2023-11-03,Psychiatrist,411.14,72.0,5,Walk-in,1,Unpaid
+BKG2507,Paige Chambers,2024-01-22,General Physician,370.4,38.0,3,App,1,Refunded
+BKG2508,Brittany Martin,2024-01-19,General Physician,507.28,83.0,3,Website,0,Unpaid
+BKG2509,Joseph Beasley,2024-05-05,Dermatologist,375.36,75.0,4,App,1,Paid
+BKG2510,Sean Silva,2024-11-01,Dermatologist,540.57,60.0,2,Website,0,Paid
+BKG2511,Chelsea Conway,2025-05-14,Cardiologist,492.46,84.0,3,Phone,0,Pending
+BKG2512,Jennifer Powell,2024-02-19,ENT,464.16,86.0,3,Phone,1,Refunded
+BKG2513,Tina Wood,2023-11-19,Dermatologist,363.87,19.0,3,Walk-in,0,Paid
+BKG2514,Kelly Anderson,2025-04-09,Psychiatrist,413.48,23.0,,App,0,Refunded
+BKG2515,Rickey Johnson,2023-11-26,General Physician,613.31,60.0,4,Website,1,Unpaid
+BKG2516,Elizabeth Mitchell,2024-01-06,General Physician,575.14,82.0,3,Walk-in,0,Refunded
+BKG2517,Kathryn Lawrence,2025-02-22,Cardiologist,353.37,,4,Phone,0,Unpaid
+BKG2518,David Aguirre,2025-01-06,General Physician,514.9,37.0,2,Phone,1,Paid
+BKG2519,Gregory Harris,2024-12-15,General Physician,612.71,12.0,1,Walk-in,0,Paid
+BKG2520,Dr. Colin Williams,2024-12-18,ENT,249.59,79.0,3,App,0,Pending
+BKG2521,Edward Sanchez,2024-06-20,Orthopedic,581.5,36.0,3,Website,1,Unpaid
+BKG2522,Joshua Goodwin,2024-04-10,Psychiatrist,400.61,11.0,3,Phone,1,Unpaid
+BKG2523,Ellen Hill,2023-12-23,ENT,585.59,,4,Walk-in,1,Refunded
+BKG2524,Teresa Lewis,2024-06-04,Orthopedic,385.51,12.0,5,Phone,1,Pending
+BKG2525,Dustin Brown,2024-12-28,General Physician,229.27,25.0,3,Phone,0,Pending
+BKG2526,Matthew Payne,2024-11-16,Cardiologist,255.87,49.0,3,Website,0,Pending
+BKG2527,James Ferrell,2024-01-11,Cardiologist,507.21,11.0,2,App,1,Unpaid
+BKG2528,Jennifer Mcdonald,2023-10-12,General Physician,538.96,50.0,1,App,0,Paid
+BKG2529,Peggy Cox,2024-02-28,Dermatologist,364.35,21.0,3,Website,0,Paid
+BKG2530,Sonia Garrett,2024-12-09,Orthopedic,595.79,44.0,3,Walk-in,1,Refunded
+BKG2531,Russell Walsh,2025-04-14,General Physician,250.77,74.0,4,Walk-in,1,Refunded
+BKG2532,Nicholas Lewis,2024-11-06,Cardiologist,490.09,64.0,2,App,0,Unpaid
+BKG2533,Christopher Jenkins,2025-01-23,Cardiologist,318.35,54.0,1,Phone,1,Paid
+BKG2534,Amanda Herrera,2024-02-20,Orthopedic,,88.0,3,Phone,1,Pending
+BKG2535,Robin Weaver,2024-02-08,Psychiatrist,507.11,71.0,3,Walk-in,1,Paid
+BKG2536,Jake Lang,2023-06-27,General Physician,370.94,58.0,1,Website,0,Refunded
+BKG2537,Dawn Carter,2025-06-06,ENT,442.32,34.0,4,Phone,1,Paid
+BKG2538,Michael Thomas,2024-05-13,General Physician,650.94,32.0,2,Walk-in,0,Pending
+BKG2539,John Green,2024-07-15,Psychiatrist,413.47,33.0,4,Website,0,Refunded
+BKG2540,William Mason,2024-09-06,Orthopedic,625.35,47.0,3,App,0,Unpaid
+BKG2541,Felicia Reyes,2024-07-31,Orthopedic,330.54,37.0,2,Website,1,Paid
+BKG2542,Terri Bell,2023-11-01,Cardiologist,579.47,,3,App,1,Paid
+BKG2543,Brian Jackson,2025-02-16,Psychiatrist,716.24,63.0,4,Walk-in,1,Unpaid
+BKG2544,Norma Douglas,2025-01-13,Orthopedic,129.25,27.0,3,Website,1,Unpaid
+BKG2545,David Dougherty,2024-12-22,Dermatologist,380.47,45.0,4,Walk-in,1,Pending
+BKG2546,Andrew Brown,2024-12-26,General Physician,586.56,54.0,2,App,0,Paid
+BKG2547,Ryan Arellano,2025-04-29,Cardiologist,469.54,82.0,4,Phone,0,Refunded
+BKG2548,Corey Delgado,2024-10-29,ENT,555.67,62.0,3,Phone,0,Paid
+BKG2549,Vanessa Ramirez,2023-08-25,Psychiatrist,409.4,39.0,4,App,1,Pending
+BKG2550,Robin Brown,2025-04-27,Cardiologist,512.99,69.0,3,Phone,0,Refunded
+BKG2551,David Little,2023-11-14,Orthopedic,476.65,41.0,5,Phone,0,Refunded
+BKG2552,Christopher Lowe,2025-02-25,Orthopedic,675.17,76.0,3,Website,1,Refunded
+BKG2553,Jade Knight,2025-04-18,ENT,538.16,76.0,2,Website,1,Pending
+BKG2554,Caroline Rose,2025-01-11,ENT,550.64,37.0,1,Phone,0,Paid
+BKG2555,Kristin Wood,2025-04-30,ENT,438.22,53.0,4,Website,0,Refunded
+BKG2556,Steven Gonzalez,2023-08-12,ENT,426.86,88.0,3,App,1,Unpaid
+BKG2557,Lisa Leon,2024-03-09,ENT,435.12,50.0,4,Website,1,Pending
+BKG2558,Wesley Holmes,2024-12-21,Dermatologist,559.17,72.0,3,Website,1,Refunded
+BKG2559,Angela Gonzalez,2024-06-17,General Physician,436.85,32.0,3,Website,1,Pending
+BKG2560,Robert Robinson,2023-07-28,Psychiatrist,543.47,84.0,1,Walk-in,0,Unpaid
+BKG2561,Katrina Warner,2024-11-30,Cardiologist,,57.0,5,App,0,Refunded
+BKG2562,Janice Horton,2024-06-17,ENT,630.67,41.0,4,Phone,1,Paid
+BKG2563,Jamie Martinez,2024-06-26,General Physician,451.1,66.0,5,Phone,0,Pending
+BKG2564,John Jackson,2023-10-02,Orthopedic,680.18,,3,Walk-in,0,Refunded
+BKG2565,Jacob Larson,2024-03-12,General Physician,,33.0,4,Website,1,Refunded
+BKG2566,Laura Ford,2023-12-31,ENT,194.28,48.0,4,App,0,Pending
+BKG2567,Hunter Smith,2024-01-05,Cardiologist,348.79,43.0,3,App,0,Unpaid
+BKG2568,Christopher Evans,2024-11-08,ENT,219.38,65.0,4,Phone,0,Pending
+BKG2569,Tammy Cordova,2023-10-05,General Physician,447.27,37.0,5,Walk-in,1,Paid
+BKG2570,Mary Clark,2025-02-24,Orthopedic,502.76,46.0,4,Walk-in,1,Unpaid
+BKG2571,Jay Aguirre,2025-04-08,General Physician,751.47,16.0,4,Walk-in,0,Paid
+BKG2572,Richard Stewart,2025-01-01,ENT,549.04,77.0,3,Walk-in,1,Paid
+BKG2573,Christina Holmes,2023-09-26,Psychiatrist,467.13,46.0,3,App,1,Pending
+BKG2574,Ryan Boyd,2024-01-01,General Physician,624.41,65.0,5,Website,1,Refunded
+BKG2575,Bryan Burns,2025-05-02,Psychiatrist,168.33,74.0,1,Phone,0,Unpaid
+BKG2576,Diana Becker,2024-07-22,ENT,535.34,74.0,4,App,0,Paid
+BKG2577,Julia Elliott,2025-04-29,General Physician,615.63,56.0,4,Walk-in,1,Refunded
+BKG2578,Jodi Rodriguez,2024-08-01,Orthopedic,278.21,29.0,4,Walk-in,0,Refunded
+BKG2579,Kristy Silva,2024-05-22,Dermatologist,671.56,28.0,,Phone,0,Refunded
+BKG2580,Joel Brown,2023-06-25,Dermatologist,550.77,38.0,3,Website,0,Unpaid
+BKG2581,Lisa Ramos,2025-04-17,Psychiatrist,437.71,83.0,3,Website,0,Refunded
+BKG2582,Jessica Rogers,2024-09-26,ENT,594.92,69.0,2,Website,0,Pending
+BKG2583,Tiffany Rice,2025-04-07,Psychiatrist,840.6,27.0,3,Walk-in,1,Paid
+BKG2584,Vanessa Watkins,2024-03-13,ENT,527.28,44.0,3,App,0,Refunded
+BKG2585,Frank Green,2025-05-29,ENT,537.23,52.0,3,App,0,Paid
+BKG2586,Janet Jenkins,2024-02-13,Dermatologist,431.1,20.0,4,Website,0,Unpaid
+BKG2587,Joyce Meyer,2024-09-11,Orthopedic,372.52,58.0,5,Phone,1,Paid
+BKG2588,Laura Schroeder,2025-01-05,Orthopedic,624.55,47.0,2,Website,1,Refunded
+BKG2589,Harold Rodriguez,2024-02-13,General Physician,371.59,73.0,3,Website,1,Unpaid
+BKG2590,Ashley Goodwin,2024-04-05,Psychiatrist,510.73,78.0,5,Phone,0,Unpaid
+BKG2591,Jamie Diaz,2025-03-01,Orthopedic,428.35,17.0,2,Website,1,Unpaid
+BKG2592,Ryan Mack,2023-10-21,Cardiologist,571.85,43.0,2,Phone,1,Unpaid
+BKG2593,Ashley Molina,2024-10-10,General Physician,550.05,57.0,2,Phone,1,Unpaid
+BKG2594,Daniel Cardenas,2024-01-18,General Physician,655.63,65.0,3,App,1,Paid
+BKG2595,Christopher Smith,2024-09-22,Dermatologist,423.5,85.0,2,Phone,0,Refunded
+BKG2596,David Nicholson,2023-10-25,Psychiatrist,459.52,74.0,5,Website,1,Paid
+BKG2597,Richard Smith,2024-02-28,Orthopedic,353.19,40.0,3,Phone,1,Refunded
+BKG2598,Jennifer White,2025-05-22,Orthopedic,433.36,,3,Website,0,Unpaid
+BKG2599,Amy Cooke,2025-01-18,ENT,556.6,59.0,3,Phone,0,Unpaid
+BKG2600,Diane Moore,2025-02-13,General Physician,613.55,78.0,3,App,1,Pending
+BKG2601,David Archer,2023-06-20,Psychiatrist,361.68,39.0,4,Website,0,Pending
+BKG2602,Michelle Morales,2025-04-17,Psychiatrist,630.44,68.0,4,Website,1,Paid
+BKG2603,Ruth Davis,2023-07-16,Psychiatrist,703.35,76.0,4,Website,0,Paid
+BKG2604,Barbara Mitchell,2023-09-22,ENT,562.02,84.0,3,Phone,0,Refunded
+BKG2605,Patricia Mueller,2024-10-18,Dermatologist,781.52,54.0,5,App,1,Refunded
+BKG2606,Beth Zavala,2025-01-25,Orthopedic,383.93,13.0,4,App,0,Pending
+BKG2607,Gabrielle Roy,2024-09-03,Psychiatrist,313.3,35.0,4,App,1,Pending
+BKG2608,Christine Solomon,2024-10-04,ENT,233.19,36.0,2,App,0,Refunded
+BKG2609,Amanda Harrison,2023-07-29,Dermatologist,724.41,55.0,1,Phone,1,Paid
+BKG2610,Suzanne Turner,2024-09-05,ENT,598.15,73.0,3,Website,0,Refunded
+BKG2611,Michelle Ramos,2024-05-07,Cardiologist,491.66,60.0,4,Walk-in,0,Paid
+BKG2612,Julia Daniel,2024-07-20,General Physician,542.0,59.0,3,App,0,Refunded
+BKG2613,John Hall,2025-04-10,Orthopedic,331.18,15.0,3,Walk-in,0,Unpaid
+BKG2614,Allison Smith,2023-10-24,ENT,866.86,68.0,4,Phone,0,Unpaid
+BKG2615,Mr. Brandon Roberson,2024-08-11,ENT,519.38,24.0,4,Phone,1,Paid
+BKG2616,Brian Nielsen,2023-08-09,Orthopedic,516.41,39.0,5,Walk-in,0,Paid
+BKG2617,David Lopez,2025-04-28,General Physician,608.86,51.0,3,Website,1,Paid
+BKG2618,Christopher Robbins,2025-02-01,Cardiologist,572.15,46.0,4,Walk-in,1,Pending
+BKG2619,Ryan Jackson,2023-10-19,Dermatologist,533.58,51.0,3,Phone,1,Pending
+BKG2620,Connor Pittman,2024-06-29,ENT,381.43,44.0,2,Walk-in,0,Refunded
+BKG2621,Sherry Gregory,2024-09-29,General Physician,570.72,15.0,2,App,1,Pending
+BKG2622,April Gordon,2024-12-03,Dermatologist,782.3,77.0,3,App,0,Refunded
+BKG2623,Brandy Rios,2024-05-22,Dermatologist,701.81,27.0,3,Website,1,Refunded
+BKG2624,Juan Osborne,2024-12-11,Dermatologist,738.98,82.0,4,Walk-in,1,Refunded
+BKG2625,Jamie Schmidt,2023-12-19,Cardiologist,423.32,38.0,2,Walk-in,1,Paid
+BKG2626,Logan Jimenez,2023-10-18,Cardiologist,351.56,86.0,4,Walk-in,1,Unpaid
+BKG2627,Jennifer Miller,2025-05-19,Dermatologist,481.13,68.0,3,Walk-in,1,Pending
+BKG2628,Stephen Cardenas,2024-10-19,Psychiatrist,508.36,56.0,3,Website,0,Refunded
+BKG2629,Marie Adams,2023-07-15,Orthopedic,664.13,26.0,3,Phone,1,Unpaid
+BKG2630,Amanda Wilkins,2024-02-16,Cardiologist,246.13,31.0,3,Website,1,Refunded
+BKG2631,Joseph Nichols,2023-08-08,Psychiatrist,729.43,77.0,3,Phone,0,Paid
+BKG2632,Ronald Montgomery,2023-07-11,Psychiatrist,476.3,78.0,3,Phone,0,Refunded
+BKG2633,Mary Ashley,2025-03-26,ENT,435.97,46.0,2,Phone,0,Pending
+BKG2634,Ryan Jones,2024-03-21,Orthopedic,348.18,58.0,2,Walk-in,1,Unpaid
+BKG2635,Jasmine Ruiz,2023-11-11,Dermatologist,,22.0,3,Website,1,Paid
+BKG2636,Victoria Sellers,2024-01-14,ENT,623.48,43.0,5,Phone,1,Refunded
+BKG2637,Kayla Tran,2024-12-07,ENT,511.0,62.0,3,App,1,Pending
+BKG2638,Adam Wolf,2023-06-26,Psychiatrist,306.51,60.0,4,Phone,1,Pending
+BKG2639,Teresa Hunt,2024-06-30,Psychiatrist,305.74,12.0,4,Website,1,Paid
+BKG2640,Jonathon Hughes,2023-07-19,Psychiatrist,449.63,51.0,5,Walk-in,0,Pending
+BKG2641,Michael Lowe,2025-03-10,Dermatologist,750.35,41.0,4,App,0,Pending
+BKG2642,Tara Sims,2024-06-22,Dermatologist,461.06,60.0,3,Phone,1,Pending
+BKG2643,Anthony Flores,2024-09-20,ENT,274.53,55.0,4,Walk-in,1,Pending
+BKG2644,Roberta Williams,2024-04-21,ENT,463.14,30.0,4,Website,1,Refunded
+BKG2645,Kristen Pitts,2025-02-11,Cardiologist,459.09,53.0,3,Website,1,Paid
+BKG2646,Sandra Smith,2024-09-10,Cardiologist,95.47,20.0,3,App,1,Unpaid
+BKG2647,Kenneth Baldwin,2024-03-22,Psychiatrist,491.86,77.0,1,App,0,Unpaid
+BKG2648,Clayton Dominguez,2024-06-13,Dermatologist,465.36,10.0,4,Phone,0,Pending
+BKG2649,Adam Reid,2023-08-27,Dermatologist,604.43,72.0,4,Walk-in,1,Refunded
+BKG2650,William Johnson,2023-09-09,ENT,777.34,33.0,2,Walk-in,0,Pending
+BKG2651,Patricia Castillo,2024-05-02,Orthopedic,668.98,22.0,3,Website,1,Pending
+BKG2652,Samantha Reeves,2024-04-09,Psychiatrist,459.67,20.0,3,Website,1,Refunded
+BKG2653,Scott Scott,2023-08-09,Cardiologist,,60.0,2,Phone,1,Paid
+BKG2654,Franklin Bartlett,2024-08-19,Orthopedic,886.0,26.0,,Phone,0,Unpaid
+BKG2655,Joseph Mcguire,2024-04-24,Dermatologist,508.88,33.0,3,Website,0,Refunded
+BKG2656,Andrew Lozano,2025-03-17,Cardiologist,502.09,28.0,2,Website,1,Unpaid
+BKG2657,Donald Valencia,2024-05-04,Psychiatrist,496.38,46.0,3,Walk-in,0,Refunded
+BKG2658,Dana Grant,2023-11-03,Dermatologist,529.71,17.0,4,Walk-in,0,Refunded
+BKG2659,Amber Schwartz,2024-08-18,Psychiatrist,478.35,37.0,1,Walk-in,1,Pending
+BKG2660,Michael Miller,2024-01-14,ENT,413.95,14.0,4,Phone,0,Paid
+BKG2661,Shawna Smith DDS,2023-11-06,Orthopedic,417.97,26.0,3,Walk-in,0,Unpaid
+BKG2662,Patricia Dixon,2024-08-05,Orthopedic,495.09,45.0,2,App,1,Paid
+BKG2663,Jillian Martin,2023-10-19,Orthopedic,418.49,28.0,2,App,1,Pending
+BKG2664,Alvin Hamilton,2025-05-24,General Physician,393.07,73.0,3,Walk-in,0,Refunded
+BKG2665,Sarah Small,2023-11-06,Psychiatrist,515.96,20.0,3,Walk-in,1,Unpaid
+BKG2666,Jonathan Brown,2024-04-26,Orthopedic,461.75,63.0,5,Website,0,Paid
+BKG2667,Harold Jones,2025-04-06,ENT,725.6,54.0,4,Website,1,Unpaid
+BKG2668,James Alexander,2023-09-09,Orthopedic,102.35,56.0,,Phone,1,Unpaid
+BKG2669,Matthew Benson,2024-05-21,Psychiatrist,663.73,21.0,3,App,1,Unpaid
+BKG2670,Bryan Reed,2025-03-11,Orthopedic,686.91,30.0,5,App,1,Paid
+BKG2671,Nathan Dougherty,2024-02-09,Psychiatrist,188.99,20.0,3,Phone,0,Unpaid
+BKG2672,Cassandra Black,2023-12-11,Dermatologist,448.6,14.0,3,Walk-in,1,Paid
+BKG2673,Mark Lambert,2025-01-04,ENT,444.28,65.0,2,Walk-in,1,Refunded
+BKG2674,Jodi Harris,2023-08-15,Psychiatrist,288.87,29.0,2,Phone,1,Paid
+BKG2675,Cathy Clark,2024-04-24,Psychiatrist,383.33,50.0,4,App,0,Pending
+BKG2676,Alan Lambert,2024-03-10,General Physician,333.41,55.0,3,App,0,Unpaid
+BKG2677,Douglas Jackson Jr.,2025-01-07,Dermatologist,762.84,21.0,3,Walk-in,1,Pending
+BKG2678,Michael Garcia,2025-05-28,ENT,640.35,79.0,4,Website,1,Pending
+BKG2679,Dylan Fuentes,2024-10-15,General Physician,690.73,26.0,3,Phone,1,Refunded
+BKG2680,Joseph Davis,2024-06-27,Orthopedic,608.25,28.0,3,Phone,1,Refunded
+BKG2681,Michael Guzman,2023-06-23,Psychiatrist,330.64,35.0,3,Walk-in,1,Paid
+BKG2682,Beth Scott DVM,2023-08-13,ENT,421.32,57.0,4,Phone,1,Paid
+BKG2683,Dakota Porter,2024-01-13,Dermatologist,,61.0,4,App,0,Unpaid
+BKG2684,Amber Anderson,2023-12-05,General Physician,316.68,79.0,3,Walk-in,1,Pending
+BKG2685,Diane Cherry,2023-07-27,Psychiatrist,606.95,64.0,3,App,1,Refunded
+BKG2686,Stephen Brown,2024-04-14,Cardiologist,463.95,84.0,3,Website,1,Refunded
+BKG2687,Robin Dillon,2024-12-26,ENT,443.78,42.0,4,Phone,1,Unpaid
+BKG2688,Albert Burch,2025-04-14,General Physician,606.64,71.0,3,Phone,1,Refunded
+BKG2689,Victoria Wilson,2024-04-21,Dermatologist,566.64,32.0,3,App,1,Pending
+BKG2690,Cheryl Chase,2024-05-23,General Physician,445.86,24.0,2,Walk-in,0,Pending
+BKG2691,Nicole Zhang,2024-05-02,General Physician,673.9,36.0,3,Walk-in,0,Unpaid
+BKG2692,Amanda Payne,2023-10-02,General Physician,337.84,84.0,3,Phone,0,Pending
+BKG2693,Amber Estrada,2024-09-26,Orthopedic,592.39,73.0,4,App,0,Paid
+BKG2694,Kristin Wilkinson,2023-07-03,Cardiologist,588.97,60.0,3,Website,0,Pending
+BKG2695,Emily Moore,2024-01-21,Dermatologist,453.57,62.0,3,App,0,Paid
+BKG2696,Erica Walker,2024-01-21,Dermatologist,548.92,87.0,4,Walk-in,1,Refunded
+BKG2697,Hayden Moore,2025-01-10,Dermatologist,312.33,60.0,4,Phone,1,Paid
+BKG2698,Michelle Yoder,2023-08-05,Psychiatrist,638.6,56.0,3,Phone,1,Unpaid
+BKG2699,Erika Lara,2023-11-26,ENT,472.26,13.0,3,Phone,1,Unpaid
+BKG2700,Sarah Taylor,2024-08-14,Dermatologist,421.59,16.0,3,Website,1,Unpaid
+BKG2701,Diana Brooks,2024-07-18,ENT,657.35,44.0,5,Website,1,Unpaid
+BKG2702,Jordan Hickman,2025-04-05,Dermatologist,394.35,57.0,2,Walk-in,0,Unpaid
+BKG2703,Vanessa Mays,2025-02-25,Cardiologist,288.73,82.0,5,App,1,Pending
+BKG2704,Sara Kramer,2025-06-13,Psychiatrist,266.51,81.0,4,App,0,Refunded
+BKG2705,Barbara Vaughn,2025-03-25,Psychiatrist,590.9,54.0,3,App,0,Paid
+BKG2706,Caitlin Clark,2023-10-19,General Physician,307.94,81.0,1,Website,1,Paid
+BKG2707,Mrs. Meghan Campos,2025-02-24,Orthopedic,763.22,28.0,3,Phone,1,Refunded
+BKG2708,James Cervantes,2024-06-15,Psychiatrist,187.71,72.0,3,Walk-in,1,Unpaid
+BKG2709,Grace Hernandez,2025-02-01,Psychiatrist,754.47,47.0,2,Walk-in,1,Unpaid
+BKG2710,Danielle Krueger,2024-01-02,Cardiologist,531.65,76.0,4,Website,1,Paid
+BKG2711,Rhonda Lewis,2023-08-26,Dermatologist,485.49,68.0,5,Website,1,Unpaid
+BKG2712,Karen Cochran,2023-11-04,Psychiatrist,418.26,78.0,3,Phone,1,Pending
+BKG2713,James Barton,2023-08-27,Psychiatrist,559.87,22.0,4,Phone,0,Pending
+BKG2714,Darrell Ferguson,2024-03-27,Orthopedic,494.35,56.0,2,Website,1,Pending
+BKG2715,Wendy Moore,2023-08-04,ENT,665.5,70.0,3,Walk-in,1,Refunded
+BKG2716,Kimberly Hess,2024-08-20,Cardiologist,517.13,40.0,2,Phone,0,Refunded
+BKG2717,Brian Vaughan,2024-02-29,Orthopedic,522.55,89.0,4,Phone,1,Pending
+BKG2718,Erik Thompson,2024-07-06,Psychiatrist,445.46,31.0,5,Walk-in,1,Refunded
+BKG2719,William Villarreal,2024-04-09,Psychiatrist,491.46,52.0,4,Phone,0,Pending
+BKG2720,Katelyn Johnson,2025-03-25,Cardiologist,546.17,76.0,2,Walk-in,1,Unpaid
+BKG2721,Carmen Powers,2023-07-22,General Physician,243.47,63.0,3,App,1,Refunded
+BKG2722,Levi Richards,2024-09-03,General Physician,297.77,19.0,3,Phone,1,Pending
+BKG2723,Andrew Davis,2025-04-01,Psychiatrist,611.49,51.0,3,Phone,1,Refunded
+BKG2724,Kristen Everett,2023-08-16,Psychiatrist,525.63,73.0,4,App,1,Paid
+BKG2725,Amanda Mclaughlin,2023-07-02,Orthopedic,472.4,30.0,4,Walk-in,1,Paid
+BKG2726,Sheila Green,2023-12-14,ENT,502.77,89.0,4,Phone,0,Pending
+BKG2727,Kevin Dickson,2025-05-23,ENT,552.14,85.0,3,App,1,Pending
+BKG2728,Leslie Jackson,2023-11-13,Orthopedic,419.04,75.0,3,Walk-in,1,Pending
+BKG2729,Katrina Stewart,2023-10-04,Orthopedic,383.25,50.0,2,Phone,0,Paid
+BKG2730,Lisa Ramsey,2023-06-23,Dermatologist,529.38,33.0,3,Website,0,Refunded
+BKG2731,Tony Cantrell,2025-01-12,Psychiatrist,353.24,44.0,3,App,1,Paid
+BKG2732,Roger Walls,2025-01-07,Dermatologist,561.24,65.0,4,Walk-in,0,Pending
+BKG2733,Angela Patrick,2024-10-19,General Physician,244.61,,4,Website,1,Pending
+BKG2734,Jessica Gonzalez,2023-06-20,Psychiatrist,654.37,66.0,2,Walk-in,1,Pending
+BKG2735,Ashley Ortiz,2024-11-21,Psychiatrist,570.89,56.0,3,Website,0,Pending
+BKG2736,Michele Williams,2023-10-19,Cardiologist,538.4,44.0,2,Website,1,Pending
+BKG2737,Matthew Elliott,2023-07-29,Psychiatrist,647.4,28.0,2,App,1,Pending
+BKG2738,Charlene Hooper,2025-01-23,General Physician,749.82,17.0,4,App,0,Unpaid
+BKG2739,Timothy Francis,2025-04-27,ENT,652.16,35.0,1,Website,0,Unpaid
+BKG2740,Kyle Chandler,2024-06-17,ENT,223.87,80.0,3,App,0,Unpaid
+BKG2741,Brandon Terry PhD,2023-09-13,Psychiatrist,308.06,39.0,2,Walk-in,0,Paid
+BKG2742,Kelly Douglas,2023-09-13,ENT,406.28,16.0,4,Phone,1,Refunded
+BKG2743,Larry Harris,2024-08-15,Dermatologist,503.91,76.0,3,Walk-in,0,Pending
+BKG2744,Chloe Garza,2024-06-20,Psychiatrist,577.65,74.0,3,Website,0,Unpaid
+BKG2745,Karen Chan,2023-07-28,Dermatologist,391.14,45.0,3,Walk-in,0,Paid
+BKG2746,Paula Perez,2023-11-18,Orthopedic,528.02,34.0,4,Website,0,Refunded
+BKG2747,Audrey Doyle,2024-02-15,Orthopedic,,46.0,5,Walk-in,0,Pending
+BKG2748,Casey Mann,2025-06-03,Cardiologist,408.27,10.0,3,Walk-in,1,Pending
+BKG2749,Jeff Howell,2024-07-02,Psychiatrist,289.0,24.0,4,App,0,Refunded
+BKG2750,Alexandra Chandler,2025-01-03,Orthopedic,,46.0,5,Website,1,Refunded
+BKG2751,Karl Mccoy,2025-04-06,Orthopedic,297.25,22.0,5,Website,0,Refunded
+BKG2752,Benjamin Diaz,2023-11-05,ENT,353.62,17.0,4,Phone,0,Paid
+BKG2753,Laura Peck,2023-10-17,Cardiologist,658.05,14.0,4,Walk-in,0,Unpaid
+BKG2754,Shannon Martin,2024-04-04,Cardiologist,357.59,69.0,3,Walk-in,0,Pending
+BKG2755,Shane Case,2025-03-14,ENT,894.86,82.0,4,Phone,0,Unpaid
+BKG2756,Frank Pace,2024-05-31,Psychiatrist,574.0,10.0,3,Website,0,Refunded
+BKG2757,Julia Ramirez,2025-04-01,Dermatologist,527.73,45.0,4,Walk-in,0,Pending
+BKG2758,Lisa Hoffman DDS,2024-08-29,Psychiatrist,371.25,44.0,3,Phone,0,Pending
+BKG2759,Gabriella Newton,2024-01-16,Dermatologist,605.05,75.0,4,Phone,1,Unpaid
+BKG2760,Tyler Pham,2024-04-14,Cardiologist,413.65,72.0,4,Phone,0,Unpaid
+BKG2761,Stephanie Simpson,2024-10-14,General Physician,518.3,32.0,2,Walk-in,1,Pending
+BKG2762,Jeffrey Dalton,2024-03-25,Psychiatrist,884.01,18.0,4,Website,0,Paid
+BKG2763,Ashley Henson,2024-11-27,General Physician,485.59,43.0,3,Website,1,Refunded
+BKG2764,Robert Morgan,2023-09-01,Dermatologist,672.39,55.0,4,Phone,0,Unpaid
+BKG2765,Robert Gonzales,2023-07-20,Psychiatrist,394.52,87.0,3,Phone,0,Pending
+BKG2766,Ryan Perry,2023-09-29,General Physician,494.75,13.0,3,Website,0,Unpaid
+BKG2767,Carly Fields,2023-08-31,General Physician,765.62,39.0,5,Phone,1,Pending
+BKG2768,Jacob Simpson,2023-12-12,Psychiatrist,405.95,84.0,3,Phone,1,Paid
+BKG2769,Erica Williams,2024-06-24,General Physician,771.87,,4,Website,1,Unpaid
+BKG2770,Bobby Bryant,2023-07-01,Psychiatrist,606.16,12.0,3,Walk-in,1,Pending
+BKG2771,Jessica Soto,2023-09-06,General Physician,415.63,23.0,3,Phone,0,Unpaid
+BKG2772,Karen Hernandez,2025-06-17,Cardiologist,594.86,,3,Walk-in,0,Pending
+BKG2773,Brian Wells,2024-09-05,Psychiatrist,645.88,86.0,3,Phone,0,Refunded
+BKG2774,Catherine Koch,2025-03-20,Cardiologist,593.27,54.0,3,Phone,1,Pending
+BKG2775,Michelle Pearson,2025-05-06,ENT,264.47,43.0,1,Phone,0,Pending
+BKG2776,Kimberly Jones,2023-12-15,Orthopedic,390.93,54.0,3,App,1,Pending
+BKG2777,Joseph Simon,2024-01-28,Cardiologist,462.87,70.0,1,Walk-in,1,Pending
+BKG2778,Samantha Ray,2024-04-18,General Physician,488.83,25.0,5,Walk-in,1,Refunded
+BKG2779,Tammy Stephens,2025-04-15,Dermatologist,593.1,75.0,5,Phone,1,Paid
+BKG2780,Sandra Prince,2025-04-30,ENT,526.66,49.0,3,Website,1,Refunded
+BKG2781,Gregory Salinas,2024-10-06,Cardiologist,299.7,26.0,4,Phone,0,Paid
+BKG2782,Heather Acosta,2024-02-12,ENT,557.03,43.0,3,App,1,Paid
+BKG2783,John Wells,2023-11-21,Cardiologist,591.59,25.0,4,Phone,1,Refunded
+BKG2784,Guy Cox,2024-01-02,Cardiologist,583.97,69.0,4,App,0,Unpaid
+BKG2785,Samuel Young,2025-01-21,Dermatologist,662.12,75.0,5,Phone,1,Paid
+BKG2786,Lawrence Williams,2024-11-06,Dermatologist,625.09,75.0,3,Walk-in,1,Refunded
+BKG2787,John Hunt,2024-03-03,Cardiologist,568.88,22.0,4,Phone,0,Pending
+BKG2788,Annette Flores,2023-06-23,Orthopedic,489.48,65.0,3,Walk-in,0,Refunded
+BKG2789,Joshua Harper,2023-09-03,Dermatologist,250.86,40.0,,Website,0,Paid
+BKG2790,Steven Walton,2024-05-06,Dermatologist,564.44,43.0,1,Website,1,Unpaid
+BKG2791,Mr. Matthew Espinoza,2023-08-15,Dermatologist,531.15,48.0,4,Phone,0,Unpaid
+BKG2792,Kelly Callahan,2024-09-19,Psychiatrist,540.74,76.0,4,Phone,0,Unpaid
+BKG2793,Antonio Jackson,2025-04-30,ENT,308.49,17.0,4,Website,0,Pending
+BKG2794,Scott Guerrero,2024-12-07,Cardiologist,337.84,87.0,2,App,1,Refunded
+BKG2795,Tiffany Banks,2024-07-06,Orthopedic,657.97,64.0,5,Website,0,Refunded
+BKG2796,Justin Walter,2023-11-10,Dermatologist,494.07,36.0,2,Website,1,Unpaid
+BKG2797,John Roth,2025-05-13,Psychiatrist,602.23,62.0,4,App,1,Pending
+BKG2798,Renee Mason,2024-10-07,ENT,504.25,48.0,3,Website,0,Unpaid
+BKG2799,Joseph Jones,2024-01-13,General Physician,504.46,74.0,3,Website,1,Paid
+BKG2800,Joshua Payne Jr.,2023-09-16,General Physician,640.74,26.0,3,App,1,Refunded
+BKG2801,Logan Adams,2024-07-26,Dermatologist,422.59,39.0,3,App,0,Pending
+BKG2802,Jennifer Weber,2024-04-24,Orthopedic,514.42,62.0,2,Walk-in,1,Unpaid
+BKG2803,Cristian Sanders,2024-03-25,Orthopedic,430.66,22.0,2,Phone,0,Pending
+BKG2804,Sabrina Mclean,2025-03-02,ENT,434.83,30.0,3,Walk-in,1,Paid
+BKG2805,John Horton,2023-12-05,ENT,453.62,28.0,4,App,1,Paid
+BKG2806,Anthony Thomas,2024-03-23,Cardiologist,533.32,62.0,4,Website,0,Refunded
+BKG2807,Annette Rowe,2025-01-25,Dermatologist,428.19,28.0,2,App,0,Pending
+BKG2808,Jeffrey Green,2023-07-11,General Physician,688.36,66.0,3,Website,1,Unpaid
+BKG2809,Scott Lowe,2023-06-29,Cardiologist,365.81,34.0,2,Walk-in,1,Unpaid
+BKG2810,David Davis,2024-02-16,Orthopedic,471.97,40.0,1,Walk-in,0,Unpaid
+BKG2811,Dr. Dennis Morgan MD,2023-10-21,Cardiologist,434.04,64.0,4,Walk-in,1,Refunded
+BKG2812,Mary Henry,2025-01-29,General Physician,717.05,32.0,4,Website,1,Paid
+BKG2813,William Boyd,2025-05-02,Orthopedic,529.48,41.0,2,Phone,1,Unpaid
+BKG2814,Gregory Flores,2023-12-05,ENT,654.78,71.0,3,Phone,1,Refunded
+BKG2815,Gary Schaefer,2024-03-25,Psychiatrist,277.17,83.0,1,Phone,0,Refunded
+BKG2816,Dawn Terry,2024-03-10,Psychiatrist,540.06,19.0,4,App,0,Refunded
+BKG2817,Laurie Banks,2024-01-30,ENT,633.44,81.0,5,App,0,Refunded
+BKG2818,Julia Spence,2024-03-18,Dermatologist,512.34,63.0,2,Website,0,Refunded
+BKG2819,Kelly Johnson,2025-01-16,Cardiologist,659.82,61.0,3,App,0,Refunded
+BKG2820,Frank Bailey,2023-09-08,Orthopedic,422.41,29.0,4,Website,0,Paid
+BKG2821,Kyle Miller,2024-08-08,ENT,711.4,41.0,5,Walk-in,1,Paid
+BKG2822,John Cardenas,2025-04-23,ENT,844.83,23.0,3,Website,0,Unpaid
+BKG2823,Tina Diaz,2024-06-21,Dermatologist,445.57,59.0,2,App,1,Pending
+BKG2824,Kari Sampson,2024-07-29,Cardiologist,433.17,37.0,1,Walk-in,1,Paid
+BKG2825,Tara Burns,2023-08-25,ENT,718.01,62.0,3,Walk-in,1,Pending
+BKG2826,Lisa Bullock,2025-06-14,General Physician,736.94,33.0,3,Website,0,Unpaid
+BKG2827,Traci Mills,2023-10-31,ENT,421.57,88.0,1,Phone,1,Paid
+BKG2828,Erin Rodriguez,2024-03-17,Orthopedic,436.97,31.0,3,App,0,Paid
+BKG2829,Michael Perez,2023-09-30,Cardiologist,457.73,39.0,1,App,1,Unpaid
+BKG2830,Amy Jackson,2023-07-07,Orthopedic,,72.0,4,Phone,1,Unpaid
+BKG2831,Crystal Murphy,2025-03-25,Cardiologist,362.2,13.0,3,App,0,Pending
+BKG2832,Jennifer Thomas,2025-01-21,General Physician,349.38,86.0,1,Phone,1,Pending
+BKG2833,Jasmine Ryan,2023-06-25,Orthopedic,384.83,68.0,3,Phone,1,Unpaid
+BKG2834,Angela Rhodes,2024-08-09,Psychiatrist,494.8,17.0,3,Walk-in,1,Paid
+BKG2835,Laura Bullock,2025-04-26,ENT,535.13,21.0,5,Walk-in,1,Refunded
+BKG2836,Christine Page,2024-03-12,General Physician,,,3,Website,0,Pending
+BKG2837,Makayla Wilson,2024-09-14,Cardiologist,350.25,87.0,3,Walk-in,1,Unpaid
+BKG2838,Melissa Moore,2024-01-08,Orthopedic,647.65,43.0,4,Phone,1,Paid
+BKG2839,Richard Carroll,2023-10-15,ENT,467.9,84.0,3,Website,0,Paid
+BKG2840,Chelsea Knapp,2024-08-13,General Physician,492.58,85.0,5,App,1,Pending
+BKG2841,Kenneth Carr,2024-08-26,Cardiologist,601.22,58.0,3,Phone,1,Pending
+BKG2842,Troy Dillon,2023-09-28,Psychiatrist,331.59,88.0,3,Website,1,Refunded
+BKG2843,Mallory Wolfe,2025-04-07,Psychiatrist,557.36,,2,Walk-in,1,Pending
+BKG2844,Richard Adams,2024-06-25,Cardiologist,524.97,35.0,3,Phone,0,Refunded
+BKG2845,Justin Knapp,2023-08-24,Psychiatrist,573.87,27.0,4,Website,1,Unpaid
+BKG2846,Frank Daugherty,2025-03-20,General Physician,543.38,47.0,4,App,0,Pending
+BKG2847,Michelle Franklin,2023-12-25,ENT,868.3,59.0,3,Phone,1,Refunded
+BKG2848,Dwayne Foster,2024-07-21,Psychiatrist,404.34,17.0,3,Phone,1,Pending
+BKG2849,Jasmin Perez,2024-02-25,ENT,420.35,50.0,4,Website,1,Unpaid
+BKG2850,Regina Gonzalez,2024-03-22,Dermatologist,406.53,15.0,5,Website,0,Unpaid
+BKG2851,Jodi Scott,2025-05-30,Psychiatrist,416.68,78.0,2,Walk-in,1,Refunded
+BKG2852,Elizabeth King,2023-10-29,Dermatologist,404.39,53.0,3,Walk-in,1,Paid
+BKG2853,Phillip Saunders,2024-07-08,ENT,678.35,73.0,3,Phone,0,Unpaid
+BKG2854,Rebecca Brooks,2024-01-09,Orthopedic,713.08,38.0,4,App,0,Unpaid
+BKG2855,Misty Pierce,2023-08-08,ENT,414.39,37.0,2,Walk-in,0,Unpaid
+BKG2856,Jacqueline Warner DVM,2023-06-28,General Physician,375.15,20.0,3,App,0,Unpaid
+BKG2857,Matthew Farmer,2024-08-31,Orthopedic,570.71,74.0,4,Website,1,Paid
+BKG2858,Leah Singleton,2024-02-25,Orthopedic,417.17,28.0,2,Website,1,Unpaid
+BKG2859,Angela Hernandez,2024-07-11,Psychiatrist,594.94,18.0,3,Walk-in,1,Paid
+BKG2860,Natalie Singh,2024-02-23,Psychiatrist,530.44,36.0,3,Phone,1,Pending
+BKG2861,Amy Levine,2023-08-01,Psychiatrist,272.64,43.0,3,Website,0,Paid
+BKG2862,Brian Alexander,2023-10-19,ENT,732.13,53.0,3,App,1,Refunded
+BKG2863,Amanda Mitchell,2024-01-12,Orthopedic,769.38,77.0,3,Phone,1,Pending
+BKG2864,Cody Peterson,2024-07-30,General Physician,408.08,24.0,2,Walk-in,1,Paid
+BKG2865,Lindsey Hernandez,2023-09-14,General Physician,441.84,60.0,3,Website,1,Paid
+BKG2866,Charles White,2024-05-18,Dermatologist,542.88,22.0,4,Walk-in,0,Paid
+BKG2867,Keith Reilly,2024-09-28,Cardiologist,550.17,58.0,4,Phone,1,Paid
+BKG2868,Gregory Lopez,2023-12-09,General Physician,598.78,79.0,2,Phone,1,Paid
+BKG2869,Susan Mcdaniel,2024-03-18,Psychiatrist,801.53,65.0,2,Phone,1,Paid
+BKG2870,Brandon Wallace,2023-08-01,Dermatologist,473.46,85.0,3,App,0,Refunded
+BKG2871,David Becker,2024-04-20,Psychiatrist,380.26,60.0,3,Phone,0,Refunded
+BKG2872,James Walsh,2025-05-21,Orthopedic,293.1,46.0,3,Phone,1,Refunded
+BKG2873,Bryan Rhodes,2023-11-25,Orthopedic,390.36,26.0,4,Website,1,Paid
+BKG2874,Michael Brown,2023-08-14,ENT,495.03,67.0,2,App,1,Pending
+BKG2875,Andrew Washington,2023-10-03,Psychiatrist,769.18,38.0,1,App,0,Refunded
+BKG2876,James Williamson,2025-02-13,General Physician,422.36,42.0,3,Walk-in,1,Unpaid
+BKG2877,Wanda Guerra,2024-03-14,Cardiologist,533.57,69.0,4,Phone,1,Unpaid
+BKG2878,Carolyn Allen,2024-08-09,Psychiatrist,497.54,64.0,2,Website,1,Paid
+BKG2879,John Lam,2023-09-30,General Physician,678.26,,4,Walk-in,0,Pending
+BKG2880,Andrew James,2024-10-27,Dermatologist,879.04,56.0,3,Phone,1,Refunded
+BKG2881,Monique Love,2025-03-26,Psychiatrist,420.37,32.0,4,App,1,Paid
+BKG2882,Christopher Smith,2023-09-23,Dermatologist,426.58,30.0,4,Phone,0,Pending
+BKG2883,Dan Thompson,2025-06-06,General Physician,656.62,22.0,3,Phone,0,Unpaid
+BKG2884,Stephen Acosta,2023-07-17,General Physician,602.28,42.0,3,Website,1,Refunded
+BKG2885,Ashley Davis,2024-10-13,General Physician,777.01,33.0,3,Website,0,Paid
+BKG2886,Rachel Hogan,2023-11-21,General Physician,587.59,20.0,3,Website,1,Paid
+BKG2887,Sara Brown,2024-01-15,Orthopedic,446.11,26.0,4,Walk-in,0,Pending
+BKG2888,Jacob Ortiz,2024-08-06,ENT,588.6,77.0,4,Website,0,Paid
+BKG2889,Heather Vargas,2023-10-28,General Physician,666.31,56.0,4,Walk-in,1,Paid
+BKG2890,Ashley Crawford,2025-05-22,Orthopedic,623.07,34.0,4,Phone,1,Refunded
+BKG2891,James Castro,2025-04-11,Cardiologist,576.09,82.0,3,Walk-in,1,Unpaid
+BKG2892,Alec Glover,2023-10-20,Orthopedic,660.0,30.0,2,Walk-in,0,Unpaid
+BKG2893,Ashley Walter,2023-09-16,Dermatologist,675.39,21.0,4,Website,1,Pending
+BKG2894,Angela Turner,2025-02-13,Cardiologist,707.32,46.0,3,Website,1,Unpaid
+BKG2895,Ashley Cochran,2025-05-19,Dermatologist,597.31,51.0,4,App,1,Pending
+BKG2896,Kristina Moore,2024-04-20,ENT,474.93,26.0,3,Walk-in,1,Refunded
+BKG2897,Michael Curtis,2025-05-20,Psychiatrist,522.01,57.0,2,Phone,1,Pending
+BKG2898,Christine Carter,2024-09-30,Psychiatrist,680.98,37.0,,App,0,Unpaid
+BKG2899,John Schultz,2024-07-23,Orthopedic,377.46,50.0,2,App,1,Paid
+BKG2900,Caitlin Gonzalez,2023-08-11,Dermatologist,555.3,56.0,,App,1,Refunded
+BKG2901,Gary Mercer,2023-11-18,ENT,441.0,27.0,5,Website,0,Unpaid
+BKG2902,Katie Wright,2023-09-16,Psychiatrist,504.31,87.0,4,Website,1,Refunded
+BKG2903,Crystal Taylor,2024-03-29,ENT,691.77,80.0,4,Website,1,Pending
+BKG2904,David Richardson,2025-05-18,ENT,528.66,22.0,3,Phone,1,Unpaid
+BKG2905,Amanda Stephens,2025-04-19,Psychiatrist,506.97,22.0,4,Walk-in,1,Paid
+BKG2906,John Ramirez,2023-09-27,Psychiatrist,296.02,40.0,3,App,1,Paid
+BKG2907,Luis Clark,2023-08-28,Cardiologist,611.94,11.0,3,Website,0,Paid
+BKG2908,Cody James,2024-10-15,Cardiologist,596.82,25.0,4,Walk-in,0,Paid
+BKG2909,Michael Jimenez,2023-08-04,General Physician,824.49,18.0,3,App,0,Refunded
+BKG2910,Jaime Buckley,2025-02-15,Dermatologist,453.83,82.0,3,Walk-in,1,Unpaid
+BKG2911,Ronald Thomas,2024-01-11,Psychiatrist,532.87,47.0,3,App,0,Paid
+BKG2912,Ashley Barnett,2024-02-18,ENT,537.41,84.0,3,Walk-in,1,Paid
+BKG2913,Aaron Wheeler,2023-08-10,Dermatologist,736.62,63.0,4,Website,1,Paid
+BKG2914,Mr. Curtis Montgomery,2025-03-12,General Physician,485.71,65.0,3,Walk-in,1,Pending
+BKG2915,Mr. Jamie Rojas DDS,2024-09-18,ENT,541.85,54.0,5,Walk-in,0,Unpaid
+BKG2916,Cheryl Ortega,2023-12-04,Orthopedic,591.18,43.0,4,App,0,Refunded
+BKG2917,Nicole Tran,2025-04-30,General Physician,,18.0,4,Walk-in,0,Pending
+BKG2918,Lynn Rose,2023-06-25,Psychiatrist,433.03,17.0,3,Phone,1,Pending
+BKG2919,Karen Tucker,2024-02-23,Orthopedic,529.11,16.0,4,App,0,Refunded
+BKG2920,Michael Hansen,2023-07-19,Orthopedic,661.04,45.0,1,Walk-in,1,Paid
+BKG2921,Dennis Juarez,2023-08-27,General Physician,346.02,27.0,4,Phone,0,Paid
+BKG2922,John Valenzuela,2024-10-14,Psychiatrist,519.95,12.0,1,App,0,Unpaid
+BKG2923,Brittney Smith,2023-08-20,ENT,394.98,37.0,4,Website,1,Paid
+BKG2924,Barbara Martinez,2023-09-30,Orthopedic,679.26,79.0,,App,1,Pending
+BKG2925,Hector Lutz,2024-04-18,General Physician,271.52,53.0,3,App,0,Pending
+BKG2926,Phillip Watson,2025-03-30,General Physician,416.16,30.0,3,Walk-in,0,Pending
+BKG2927,Michael Garcia,2024-10-14,ENT,556.58,37.0,4,Phone,0,Refunded
+BKG2928,Lauren Coffey,2024-08-27,Psychiatrist,734.83,63.0,3,App,1,Paid
+BKG2929,Michelle Gordon,2024-07-12,General Physician,490.14,63.0,4,App,1,Paid
+BKG2930,Jeffrey Tran,2024-01-28,General Physician,416.72,74.0,2,App,0,Paid
+BKG2931,Tyler Salazar,2024-06-02,General Physician,782.17,30.0,2,Walk-in,0,Paid
+BKG2932,Cassandra Crosby,2025-01-12,Dermatologist,282.8,22.0,5,App,1,Unpaid
+BKG2933,Barry Rodriguez,2024-11-28,Cardiologist,170.18,66.0,4,Phone,0,Unpaid
+BKG2934,Kelly Peters,2023-07-09,ENT,566.0,58.0,4,Walk-in,1,Pending
+BKG2935,Lisa Meyer,2025-05-28,Dermatologist,424.69,63.0,3,Website,1,Pending
+BKG2936,Albert Phillips,2023-12-05,General Physician,346.82,19.0,4,Website,1,Refunded
+BKG2937,Christopher Martin,2024-01-28,Cardiologist,606.25,62.0,3,Walk-in,1,Pending
+BKG2938,Christopher Jones,2023-10-07,ENT,,53.0,4,Phone,1,Paid
+BKG2939,Courtney Anderson,2025-03-06,Orthopedic,415.39,56.0,4,Walk-in,1,Pending
+BKG2940,Laura Oconnor,2024-08-03,ENT,307.95,62.0,3,Walk-in,0,Pending
+BKG2941,Meghan Bradley,2023-09-28,Dermatologist,630.87,83.0,3,Walk-in,1,Unpaid
+BKG2942,Justin Boone,2024-05-29,Dermatologist,597.53,55.0,3,Walk-in,1,Paid
+BKG2943,Linda Herring,2024-01-31,Dermatologist,485.12,22.0,4,App,0,Refunded
+BKG2944,Stephen Huang,2025-01-23,ENT,,46.0,3,Website,1,Refunded
+BKG2945,Madeline Pacheco,2025-06-17,Psychiatrist,339.49,33.0,4,Phone,0,Refunded
+BKG2946,Karl Alexander,2024-03-13,General Physician,271.17,11.0,3,App,1,Pending
+BKG2947,Kimberly Floyd PhD,2024-11-07,ENT,396.21,23.0,4,Website,0,Refunded
+BKG2948,Matthew Schultz,2024-09-28,Orthopedic,493.16,19.0,4,Walk-in,0,Refunded
+BKG2949,Joshua Williams,2024-03-14,Orthopedic,536.5,44.0,3,Website,1,Refunded
+BKG2950,Jon Davis,2024-10-05,Orthopedic,463.81,34.0,2,Website,1,Unpaid
+BKG2951,Brian Smith,2025-01-20,General Physician,,12.0,2,App,1,Paid
+BKG2952,Jose Little,2024-11-19,Cardiologist,312.27,,4,App,1,Unpaid
+BKG2953,Shaun Thomas,2025-02-27,Dermatologist,716.56,,4,Phone,0,Paid
+BKG2954,Richard Garcia,2023-08-03,General Physician,487.68,63.0,1,Walk-in,0,Unpaid
+BKG2955,William Nichols,2024-10-11,Dermatologist,667.59,33.0,4,Walk-in,0,Paid
+BKG2956,Kelly Russell,2024-11-23,General Physician,551.41,38.0,3,Walk-in,1,Refunded
+BKG2957,Seth Rice,2024-07-18,Dermatologist,568.51,52.0,3,Website,0,Refunded
+BKG2958,Katherine Valdez,2025-02-21,General Physician,585.47,34.0,5,Website,1,Refunded
+BKG2959,Carl Stone,2024-05-14,Cardiologist,567.16,69.0,3,Walk-in,1,Unpaid
+BKG2960,Vanessa Shah,2025-02-21,ENT,596.41,74.0,3,Phone,0,Refunded
+BKG2961,Thomas Johnson,2024-08-03,Orthopedic,699.37,37.0,1,Website,1,Pending
+BKG2962,Richard Mccarthy,2023-09-18,Dermatologist,529.48,25.0,2,Phone,0,Paid
+BKG2963,Trevor Kennedy,2025-02-11,General Physician,606.35,,3,Website,1,Unpaid
+BKG2964,Scott Harrington,2024-10-03,Cardiologist,486.54,67.0,1,App,0,Refunded
+BKG2965,Barry Cain,2023-12-30,Cardiologist,716.02,85.0,4,App,1,Refunded
+BKG2966,Jim Wise,2024-01-16,Orthopedic,398.54,36.0,3,Walk-in,0,Paid
+BKG2967,Amy Kennedy,2023-07-24,General Physician,770.14,62.0,3,App,0,Refunded
+BKG2968,Linda Harris,2024-01-20,ENT,493.98,51.0,2,Website,1,Refunded
+BKG2969,William Ballard,2024-07-15,Dermatologist,285.38,68.0,3,Website,1,Paid
+BKG2970,Noah Mueller,2023-07-22,ENT,519.22,56.0,4,App,0,Paid
+BKG2971,Kenneth Parker,2024-09-10,Psychiatrist,397.84,43.0,5,App,1,Pending
+BKG2972,Christian Watkins,2024-08-23,Cardiologist,626.1,46.0,2,App,1,Pending
+BKG2973,Darren Ortega,2024-04-12,Cardiologist,402.11,15.0,4,Walk-in,1,Paid
+BKG2974,Crystal Mcpherson,2025-05-06,Orthopedic,433.07,16.0,3,App,0,Unpaid
+BKG2975,Christopher Garrett,2023-09-23,General Physician,216.57,34.0,3,Website,0,Pending
+BKG2976,David Garcia,2023-10-20,Psychiatrist,432.15,42.0,3,App,1,Paid
+BKG2977,Derek Patton,2023-07-16,Psychiatrist,136.42,64.0,2,Walk-in,1,Refunded
+BKG2978,Tonya Spencer,2023-09-17,Psychiatrist,262.41,67.0,2,Walk-in,0,Unpaid
+BKG2979,Monica Oliver,2025-06-13,General Physician,614.06,16.0,4,Website,1,Refunded
+BKG2980,Samuel Conway,2024-09-24,Dermatologist,617.87,,3,Website,0,Pending
+BKG2981,Mary Brewer,2024-08-10,Cardiologist,563.82,21.0,5,App,1,Refunded
+BKG2982,Jennifer Evans,2023-09-22,General Physician,354.95,25.0,3,Website,1,Unpaid
+BKG2983,Emily Lewis,2025-04-17,Psychiatrist,492.84,89.0,2,Phone,1,Paid
+BKG2984,Denise Smith,2024-06-27,Cardiologist,499.46,,4,Website,0,Paid
+BKG2985,Christopher Zavala,2023-11-10,Cardiologist,326.25,86.0,3,Phone,0,Unpaid
+BKG2986,Darryl Stephenson,2024-10-23,Psychiatrist,725.51,16.0,3,Phone,0,Refunded
+BKG2987,Angelica Wolfe,2024-06-19,Psychiatrist,631.6,60.0,4,Website,0,Refunded
+BKG2988,Emily Espinoza,2025-05-30,Cardiologist,466.86,82.0,5,Phone,1,Unpaid
+BKG2989,Bruce Cohen,2024-11-24,Orthopedic,504.03,41.0,4,Website,1,Paid
+BKG2990,Crystal Duffy,2025-05-03,ENT,531.26,84.0,4,Website,0,Refunded
+BKG2991,Casey Mcdonald,2024-05-03,ENT,193.74,17.0,4,Walk-in,1,Pending
+BKG2992,Nathan Jimenez,2023-08-02,Cardiologist,462.92,81.0,5,Phone,1,Unpaid
+BKG2993,Jasmine Murray,2024-03-11,Dermatologist,397.7,54.0,3,Phone,0,Pending
+BKG2994,Anthony Spencer,2024-12-02,Dermatologist,349.76,68.0,1,App,1,Pending
+BKG2995,Kelsey Brooks DDS,2024-10-01,Orthopedic,457.83,13.0,3,Website,1,Paid
+BKG2996,Jessica Young,2023-09-27,General Physician,769.65,76.0,3,Walk-in,0,Unpaid
+BKG2997,Bethany Skinner,2024-01-23,Cardiologist,596.13,38.0,4,Walk-in,1,Refunded
+BKG2998,Jessica Brown,2024-03-18,Dermatologist,414.32,38.0,4,App,1,Refunded
+BKG2999,Karen Morris,2025-04-22,Cardiologist,585.89,37.0,3,Phone,1,Unpaid
+BKG3000,Dillon Colon,2025-06-14,Orthopedic,709.9,86.0,1,Walk-in,0,Paid
+BKG3001,Anna Johnson,2024-01-10,Psychiatrist,638.7,88.0,4,Phone,0,Refunded
+BKG3002,Jacqueline Phelps,2025-02-07,Orthopedic,508.94,53.0,3,Walk-in,1,Refunded
+BKG3003,Danny Morrison,2023-07-27,Orthopedic,402.96,13.0,4,Walk-in,1,Refunded
+BKG3004,Megan Erickson,2024-12-14,Orthopedic,604.73,18.0,3,Website,1,Paid
+BKG3005,Michael Mcguire,2025-01-14,Dermatologist,559.02,14.0,3,Phone,0,Refunded
+BKG3006,Andrea Hull,2024-08-31,Orthopedic,634.28,65.0,2,Walk-in,0,Refunded
+BKG3007,Catherine Boyle,2024-09-02,Psychiatrist,595.28,59.0,2,Website,0,Pending
+BKG3008,Leslie Smith,2023-11-16,Psychiatrist,657.43,84.0,4,Walk-in,1,Paid
+BKG3009,Janet Rose,2024-06-13,Psychiatrist,419.71,24.0,5,Website,1,Refunded
+BKG3010,Mark Miller,2024-03-23,General Physician,697.61,41.0,4,Website,1,Paid
+BKG3011,Jennifer Williams,2025-01-20,Orthopedic,529.64,37.0,2,Phone,1,Paid
+BKG3012,Anthony Lam,2023-07-04,Psychiatrist,811.29,31.0,3,Website,1,Refunded
+BKG3013,Evelyn Parker,2024-01-09,General Physician,396.62,26.0,4,Walk-in,0,Refunded
+BKG3014,Autumn Hill,2023-10-20,Orthopedic,760.39,68.0,4,App,1,Paid
+BKG3015,Toni Taylor,2023-12-23,Orthopedic,529.69,80.0,2,Walk-in,1,Paid
+BKG3016,Lynn Myers,2023-08-15,Cardiologist,402.29,66.0,1,Walk-in,1,Paid
+BKG3017,Alison Taylor,2024-12-07,Orthopedic,427.42,35.0,4,Website,0,Pending
+BKG3018,John Bell,2023-06-28,ENT,451.95,34.0,3,Walk-in,1,Unpaid
+BKG3019,Logan Scott,2023-12-22,Cardiologist,563.62,19.0,3,Website,0,Refunded
+BKG3020,Kathy Perkins,2023-09-08,Dermatologist,578.43,54.0,1,Phone,0,Pending
+BKG3021,Sean Garcia,2024-11-11,ENT,413.94,20.0,3,Website,0,Pending
+BKG3022,Robert Brown,2023-09-22,Dermatologist,,86.0,4,Phone,0,Paid
+BKG3023,Patrick Brewer,2024-03-19,General Physician,821.34,62.0,5,App,0,Unpaid
+BKG3024,Kimberly Chen,2025-02-23,ENT,759.13,81.0,3,Walk-in,1,Refunded
+BKG3025,Dr. Jennifer Irwin,2023-10-07,Cardiologist,565.45,77.0,3,Phone,1,Pending
+BKG3026,Gary Costa,2024-11-19,Dermatologist,505.7,37.0,2,App,0,Refunded
+BKG3027,Kyle Bennett,2024-07-16,Dermatologist,518.0,84.0,3,Website,0,Pending
+BKG3028,Sheila Reynolds,2023-06-27,Dermatologist,592.03,74.0,3,App,0,Refunded
+BKG3029,Richard Skinner,2024-10-30,Orthopedic,346.58,58.0,4,Phone,1,Paid
+BKG3030,Jessica Sharp,2023-10-28,Cardiologist,461.39,56.0,3,Walk-in,1,Paid
+BKG3031,Lisa Wilson,2024-11-03,Dermatologist,249.71,61.0,3,App,0,Unpaid
+BKG3032,John Scott,2024-05-11,Cardiologist,559.88,63.0,2,App,1,Paid
+BKG3033,Maria Kline,2024-08-04,Psychiatrist,597.08,69.0,3,Website,1,Pending
+BKG3034,Joshua Green,2024-11-19,Psychiatrist,427.52,66.0,2,Website,0,Pending
+BKG3035,Jeffery Barnes,2024-10-15,ENT,736.1,56.0,2,Walk-in,0,Pending
+BKG3036,Arthur Mcclain,2024-08-08,Orthopedic,316.14,40.0,,Website,1,Pending
+BKG3037,Charles Horton,2025-05-30,Psychiatrist,280.34,55.0,3,Phone,1,Paid
+BKG3038,Richard Webster,2024-05-19,General Physician,533.67,35.0,3,Phone,1,Paid
+BKG3039,Gregory Macdonald,2024-12-12,Cardiologist,657.06,14.0,4,App,0,Unpaid
+BKG3040,Kenneth Nelson,2024-10-01,Dermatologist,752.59,61.0,,Website,0,Refunded
+BKG3041,Johnny Potter,2024-07-16,General Physician,431.17,84.0,3,Website,0,Unpaid
+BKG3042,John Brooks,2023-10-09,ENT,661.8,63.0,4,App,1,Refunded
+BKG3043,Megan Harris,2024-12-19,General Physician,494.22,42.0,3,Walk-in,1,Paid
+BKG3044,Terry Brown,2024-12-09,ENT,474.11,59.0,3,Website,0,Pending
+BKG3045,Robert Medina,2025-02-25,Psychiatrist,632.55,47.0,3,Website,1,Unpaid
+BKG3046,Lauren Smith,2024-04-24,Cardiologist,597.85,36.0,4,Walk-in,0,Unpaid
+BKG3047,Amy Ross,2024-11-29,ENT,263.54,24.0,4,Website,1,Paid
+BKG3048,Richard Johnson,2025-05-09,Dermatologist,721.48,70.0,3,Phone,0,Refunded
+BKG3049,Amanda Thompson,2024-08-29,General Physician,707.01,30.0,2,Phone,1,Unpaid
+BKG3050,Taylor Olsen,2025-02-09,ENT,406.17,55.0,4,Walk-in,1,Refunded
+BKG3051,Michael Thomas,2023-12-07,Orthopedic,559.37,78.0,2,Walk-in,0,Unpaid
+BKG3052,Robert Howard,2024-02-25,ENT,574.1,15.0,3,Phone,0,Pending
+BKG3053,Timothy Fisher,2024-10-28,Dermatologist,539.1,47.0,4,Phone,0,Paid
+BKG3054,Henry Scott,2023-11-27,Psychiatrist,417.45,71.0,4,Phone,0,Refunded
+BKG3055,Louis Mclaughlin Jr.,2023-06-20,Cardiologist,399.26,71.0,4,Phone,0,Paid
+BKG3056,James Santana,2024-07-29,Orthopedic,496.17,87.0,4,Walk-in,1,Paid
+BKG3057,Kristin Morgan,2023-12-16,Dermatologist,675.91,83.0,3,Walk-in,0,Refunded
+BKG3058,Derek Barber,2025-02-24,ENT,581.54,55.0,4,App,0,Refunded
+BKG3059,Ann Glenn,2025-06-02,Dermatologist,444.41,22.0,4,Walk-in,0,Unpaid
+BKG3060,Dawn Savage,2023-09-06,General Physician,615.75,12.0,2,Phone,0,Refunded
+BKG3061,Alexis Garcia,2024-11-26,Dermatologist,72.72,15.0,1,Website,0,Paid
+BKG3062,Jeremy Smith,2023-11-24,Cardiologist,672.31,17.0,3,Phone,1,Paid
+BKG3063,Robert Thomas,2024-12-08,Cardiologist,239.04,53.0,3,Phone,0,Refunded
+BKG3064,Cassidy Proctor,2023-07-21,Dermatologist,445.63,,4,Walk-in,0,Refunded
+BKG3065,Robert Duffy,2024-01-02,General Physician,332.05,84.0,4,App,0,Unpaid
+BKG3066,Joel Jackson,2025-01-12,Orthopedic,305.8,86.0,2,Website,1,Unpaid
+BKG3067,Rachel Brown,2023-11-05,ENT,674.12,59.0,2,Website,1,Unpaid
+BKG3068,Anthony Hall,2024-08-05,Orthopedic,429.84,20.0,5,App,0,Paid
+BKG3069,Jose Dyer,2024-03-19,General Physician,551.98,37.0,2,Phone,0,Refunded
+BKG3070,John Quinn,2023-11-18,Psychiatrist,492.96,79.0,3,Walk-in,1,Pending
+BKG3071,Hannah Cross,2025-03-14,Cardiologist,571.56,50.0,3,Phone,1,Refunded
+BKG3072,Alexandra Hall,2024-11-20,Psychiatrist,511.52,25.0,3,Website,1,Refunded
+BKG3073,Jerome West,2025-04-20,ENT,307.55,77.0,2,Website,0,Unpaid
+BKG3074,Brittney Mendez,2024-10-08,General Physician,649.44,57.0,2,Phone,0,Pending
+BKG3075,Rachel Holt,2025-03-16,ENT,425.94,65.0,2,Website,1,Refunded
+BKG3076,Amber Wright,2023-06-25,Psychiatrist,266.51,73.0,3,Walk-in,0,Pending
+BKG3077,Vincent Peterson,2025-06-06,General Physician,,68.0,3,Website,1,Pending
+BKG3078,Marie Young,2025-05-19,Orthopedic,725.11,71.0,3,Walk-in,1,Refunded
+BKG3079,Christine Petersen,2023-09-04,Orthopedic,627.53,85.0,4,Phone,1,Unpaid
+BKG3080,Matthew Davis,2024-11-16,Psychiatrist,447.7,20.0,4,Phone,0,Unpaid
+BKG3081,Tyler Williams,2024-03-30,Psychiatrist,447.61,27.0,1,Walk-in,1,Refunded
+BKG3082,Sean Wilson Jr.,2025-03-22,Cardiologist,451.75,28.0,3,Walk-in,1,Pending
+BKG3083,Marie Smith,2023-12-23,Orthopedic,811.51,64.0,4,Walk-in,0,Pending
+BKG3084,Michele Ochoa,2024-03-28,Cardiologist,557.29,35.0,3,Website,1,Unpaid
+BKG3085,Harold Alexander,2025-05-31,Psychiatrist,564.51,15.0,3,Phone,0,Unpaid
+BKG3086,Daniel Mitchell,2024-02-14,ENT,654.54,13.0,4,Website,1,Unpaid
+BKG3087,Jennifer Morrison,2024-10-30,General Physician,535.82,38.0,4,Website,0,Pending
+BKG3088,Michael Le,2025-01-19,Orthopedic,461.14,68.0,4,Walk-in,1,Pending
+BKG3089,Ryan Stevens,2024-12-22,General Physician,470.55,26.0,3,Website,1,Unpaid
+BKG3090,Barbara Martin,2024-01-24,Cardiologist,489.26,52.0,4,App,1,Unpaid
+BKG3091,Brandy Rogers,2024-07-25,Cardiologist,494.42,89.0,3,App,1,Pending
+BKG3092,Ricky Wiggins,2024-02-09,Dermatologist,609.14,75.0,4,App,1,Paid
+BKG3093,Natalie Blake,2024-06-30,ENT,507.79,43.0,3,App,0,Pending
+BKG3094,Jonathan Johnson,2024-05-30,Orthopedic,609.9,17.0,2,App,0,Refunded
+BKG3095,Brandon Johnson,2024-03-15,Orthopedic,487.89,22.0,4,Walk-in,1,Refunded
+BKG3096,Scott Dixon,2024-11-30,Cardiologist,511.8,17.0,3,Website,1,Pending
+BKG3097,Nathan Long,2025-05-25,ENT,200.27,74.0,3,Website,1,Refunded
+BKG3098,Caleb Bishop,2023-10-14,General Physician,637.45,52.0,5,App,0,Paid
+BKG3099,Phillip Griffin,2024-08-27,Orthopedic,551.97,48.0,1,Website,0,Paid
+BKG3100,Kimberly Sawyer,2025-01-19,Cardiologist,649.7,68.0,3,App,1,Paid
+BKG3101,Victoria Stephens,2024-10-15,Dermatologist,65.56,53.0,2,Website,0,Refunded
+BKG3102,David Garcia,2024-09-16,Psychiatrist,813.26,18.0,4,Walk-in,1,Unpaid
+BKG3103,Robert Simon,2024-07-18,Orthopedic,479.06,46.0,4,Phone,1,Paid
+BKG3104,Audrey Lynn,2024-06-20,ENT,666.23,83.0,3,App,1,Paid
+BKG3105,Jeffrey Cain,2024-11-17,Psychiatrist,344.01,45.0,4,Walk-in,0,Unpaid
+BKG3106,Donald Matthews,2024-06-20,General Physician,591.92,37.0,3,Walk-in,1,Pending
+BKG3107,Michael Johnson,2025-02-12,Dermatologist,341.99,51.0,4,App,1,Unpaid
+BKG3108,Jessica Perry,2025-02-23,Orthopedic,406.43,52.0,3,App,1,Pending
+BKG3109,Mark Perry,2024-04-03,Psychiatrist,787.1,51.0,3,Walk-in,0,Pending
+BKG3110,Nicole Faulkner,2024-11-04,ENT,471.4,75.0,5,App,0,Unpaid
+BKG3111,Lisa Small,2024-11-02,Psychiatrist,532.61,64.0,3,App,0,Paid
+BKG3112,Brett White,2023-10-15,Cardiologist,630.51,81.0,2,Phone,1,Pending
+BKG3113,Craig Wilson,2024-06-12,Psychiatrist,574.35,57.0,3,Phone,0,Unpaid
+BKG3114,Michael Davenport,2023-08-02,General Physician,522.56,31.0,5,App,1,Paid
+BKG3115,Lori Brown,2025-06-02,Psychiatrist,554.74,36.0,3,Walk-in,0,Pending
+BKG3116,Terri Lee,2024-08-14,General Physician,860.51,76.0,2,Website,1,Refunded
+BKG3117,Jackson Petersen,2023-07-07,General Physician,491.36,22.0,3,App,0,Paid
+BKG3118,Jessica Whitney,2024-12-07,ENT,530.16,54.0,3,App,1,Unpaid
+BKG3119,Evan Frank,2025-03-14,Cardiologist,657.6,19.0,2,Website,0,Refunded
+BKG3120,Kevin Hurley,2024-02-08,Dermatologist,665.83,18.0,4,Website,0,Unpaid
+BKG3121,Nicole Wilson,2023-12-16,General Physician,678.05,63.0,,Website,0,Pending
+BKG3122,Jennifer Parks,2024-07-29,Psychiatrist,595.81,36.0,3,Phone,1,Paid
+BKG3123,Lawrence Mckee,2025-03-16,ENT,328.55,,3,Phone,0,Refunded
+BKG3124,Matthew Rivera,2023-06-24,Psychiatrist,745.01,10.0,3,Phone,0,Refunded
+BKG3125,Kyle Garcia,2023-12-25,General Physician,328.05,41.0,2,Walk-in,0,Refunded
+BKG3126,Charles Cross,2025-05-10,ENT,545.4,80.0,4,App,0,Pending
+BKG3127,Ashley Wilkins,2024-02-12,Psychiatrist,386.86,76.0,3,Phone,1,Paid
+BKG3128,Mitchell Mcclure MD,2023-11-04,Orthopedic,490.38,29.0,3,Walk-in,0,Paid
+BKG3129,Michael Hall,2025-02-08,Cardiologist,,44.0,4,Walk-in,1,Pending
+BKG3130,Seth Norton,2025-04-22,Psychiatrist,548.2,87.0,3,Website,1,Unpaid
+BKG3131,Jonathan Roach,2024-10-30,Cardiologist,563.29,26.0,4,Website,1,Refunded
+BKG3132,Alexis Bauer,2023-12-31,General Physician,742.06,27.0,2,Phone,1,Unpaid
+BKG3133,Tara Hartman,2024-05-25,General Physician,568.03,,4,App,0,Pending
+BKG3134,Michael Werner,2023-12-28,General Physician,463.38,62.0,5,App,1,Unpaid
+BKG3135,Shane Woods,2024-07-28,Cardiologist,644.61,77.0,4,App,1,Unpaid
+BKG3136,Mr. Adam Gonzales,2023-07-05,Psychiatrist,678.42,74.0,5,Walk-in,1,Pending
+BKG3137,Kevin Logan,2024-05-20,Orthopedic,315.86,10.0,2,Walk-in,1,Refunded
+BKG3138,Kimberly Gonzales,2024-03-06,Cardiologist,589.61,67.0,3,Walk-in,0,Unpaid
+BKG3139,Joel George,2023-09-11,ENT,605.18,35.0,4,Walk-in,0,Paid
+BKG3140,Kayla Lowery,2025-06-18,Orthopedic,455.37,29.0,3,App,1,Unpaid
+BKG3141,Andrew Baxter,2023-12-21,Psychiatrist,706.36,19.0,3,App,1,Unpaid
+BKG3142,Steven Johnson,2025-01-12,Psychiatrist,477.49,68.0,3,Website,1,Paid
+BKG3143,Cody Jones,2024-01-03,Cardiologist,518.84,84.0,2,App,0,Refunded
+BKG3144,Dennis Simon,2024-03-05,Dermatologist,474.04,50.0,3,Walk-in,0,Paid
+BKG3145,Tracy Davis,2024-03-28,Orthopedic,502.34,14.0,2,Walk-in,0,Refunded
+BKG3146,Austin Lawson,2023-11-23,General Physician,335.56,74.0,4,Phone,0,Pending
+BKG3147,Debra Howell,2023-12-31,Orthopedic,283.99,26.0,3,App,0,Pending
+BKG3148,Brianna Hall,2024-09-22,Psychiatrist,739.18,31.0,2,App,1,Unpaid
+BKG3149,Andrea Moore,2024-06-12,ENT,372.96,50.0,3,Website,0,Unpaid
+BKG3150,Christina White,2024-02-20,Psychiatrist,351.29,77.0,3,Website,0,Pending
+BKG3151,Joshua Davis,2023-09-09,Cardiologist,176.99,78.0,4,Walk-in,1,Paid
+BKG3152,Mr. Paul Crosby,2024-11-26,Dermatologist,404.16,20.0,3,Phone,0,Pending
+BKG3153,Lori Mendoza,2023-08-28,General Physician,301.54,65.0,3,App,0,Refunded
+BKG3154,Toni Hall,2023-11-12,Orthopedic,746.3,60.0,4,App,0,Unpaid
+BKG3155,Ashley Pham,2024-09-24,Dermatologist,651.47,30.0,3,Phone,1,Paid
+BKG3156,Kathleen Herring,2023-11-11,General Physician,396.78,85.0,2,App,0,Unpaid
+BKG3157,Gary Brown,2023-12-23,Psychiatrist,837.87,35.0,3,Website,1,Pending
+BKG3158,Mariah Murray,2023-08-28,ENT,647.26,28.0,5,Phone,1,Paid
+BKG3159,Michael Monroe,2024-02-07,Psychiatrist,451.28,69.0,3,App,0,Pending
+BKG3160,Terry Wilson,2024-02-27,Cardiologist,125.09,80.0,3,Website,0,Refunded
+BKG3161,Maureen Davis,2024-06-02,Cardiologist,843.64,56.0,2,Website,0,Pending
+BKG3162,Margaret Moore,2024-08-07,ENT,291.56,80.0,2,Walk-in,0,Paid
+BKG3163,Scott Jacobson,2025-04-11,Orthopedic,253.19,35.0,3,App,1,Pending
+BKG3164,Noah Lynch,2024-04-12,Dermatologist,653.39,49.0,3,Phone,0,Unpaid
+BKG3165,Samantha Andrews,2024-12-30,ENT,865.96,14.0,2,Website,1,Unpaid
+BKG3166,Sean Anderson,2023-12-22,Dermatologist,707.64,30.0,5,Website,1,Paid
+BKG3167,Joy Patton,2023-10-14,General Physician,584.59,87.0,4,Walk-in,1,Unpaid
+BKG3168,Brandon Thompson,2023-06-25,Orthopedic,589.21,13.0,3,Phone,1,Refunded
+BKG3169,Caroline Mcclain,2025-03-02,Cardiologist,628.01,32.0,4,Walk-in,1,Refunded
+BKG3170,Carol Phillips,2024-02-06,Orthopedic,613.84,24.0,2,Website,0,Paid
+BKG3171,John Moore,2025-05-18,Psychiatrist,542.18,17.0,3,App,1,Pending
+BKG3172,Cynthia Gutierrez,2023-11-28,Cardiologist,515.63,50.0,4,Phone,1,Unpaid
+BKG3173,Vincent Ryan,2023-11-23,Dermatologist,490.61,28.0,4,App,0,Unpaid
+BKG3174,Gabriel Martinez,2025-06-17,Cardiologist,386.91,,4,App,0,Pending
+BKG3175,Ms. Suzanne Moore,2024-01-17,Psychiatrist,457.9,37.0,3,Walk-in,1,Pending
+BKG3176,Andrew Schmidt,2024-12-18,Cardiologist,246.06,77.0,5,Website,1,Pending
+BKG3177,Katherine Santos,2025-02-11,ENT,485.25,24.0,2,App,0,Pending
+BKG3178,Molly Tapia,2024-05-05,Dermatologist,351.71,46.0,4,Phone,1,Unpaid
+BKG3179,Kristi Walter,2023-11-24,Psychiatrist,334.46,10.0,5,Walk-in,0,Refunded
+BKG3180,Denise Lane,2023-09-25,ENT,526.98,76.0,2,Phone,0,Paid
+BKG3181,Steven Ford,2025-05-02,General Physician,708.8,33.0,4,App,1,Paid
+BKG3182,Hannah Johnston,2024-05-02,Orthopedic,637.75,36.0,1,Phone,0,Pending
+BKG3183,Alice Long,2025-05-01,ENT,264.42,49.0,3,Walk-in,1,Refunded
+BKG3184,Mark Johnson,2024-08-09,General Physician,351.56,72.0,3,Walk-in,1,Unpaid
+BKG3185,Leslie Larson,2024-11-30,Psychiatrist,641.12,70.0,3,Website,1,Unpaid
+BKG3186,Anthony Hurley,2023-12-26,Psychiatrist,352.63,45.0,5,Phone,0,Paid
+BKG3187,Daniel Thornton,2025-03-20,Psychiatrist,466.31,33.0,4,Walk-in,1,Pending
+BKG3188,Mary Cruz,2025-03-13,Dermatologist,582.51,33.0,3,Walk-in,0,Refunded
+BKG3189,Timothy Duran,2024-11-11,Psychiatrist,354.75,13.0,4,Website,1,Paid
+BKG3190,Vanessa Barajas,2025-03-08,Orthopedic,515.81,76.0,5,Walk-in,1,Refunded
+BKG3191,Melanie Hamilton,2025-03-15,Dermatologist,299.9,43.0,1,App,0,Pending
+BKG3192,Zachary Nielsen,2023-09-12,Psychiatrist,409.79,66.0,,Phone,1,Pending
+BKG3193,Daniel Hopkins,2024-04-19,Dermatologist,547.97,58.0,2,Website,1,Paid
+BKG3194,Rachel Delgado,2024-08-15,Orthopedic,261.05,62.0,4,App,0,Pending
+BKG3195,Linda Baker,2024-01-16,Orthopedic,566.07,32.0,3,App,0,Refunded
+BKG3196,Elizabeth Garcia,2024-09-11,ENT,497.05,78.0,2,Phone,0,Refunded
+BKG3197,Christine Rivera,2024-08-27,Dermatologist,,62.0,3,Website,1,Paid
+BKG3198,Melissa Butler,2024-05-16,Cardiologist,533.59,71.0,4,Walk-in,0,Pending
+BKG3199,Mary Lewis,2024-09-13,General Physician,704.62,50.0,3,Website,0,Unpaid
+BKG3200,Melissa Romero,2024-12-04,Psychiatrist,518.78,66.0,2,Walk-in,1,Pending
+BKG3201,Chelsea Brady,2025-03-18,General Physician,435.59,,3,Phone,0,Paid
+BKG3202,Susan Wilson,2023-12-11,Orthopedic,518.34,63.0,5,Phone,1,Paid
+BKG3203,Edward Roberts,2023-11-24,General Physician,581.49,79.0,3,App,1,Unpaid
+BKG3204,Doris Kelly,2024-04-20,Cardiologist,507.33,66.0,3,App,0,Paid
+BKG3205,Dylan Richardson,2024-01-06,General Physician,506.09,19.0,3,App,1,Paid
+BKG3206,Natalie Butler,2025-04-07,ENT,394.7,49.0,1,Phone,0,Unpaid
+BKG3207,Christine Espinoza DDS,2024-08-04,General Physician,400.56,16.0,4,Walk-in,0,Unpaid
+BKG3208,William West,2024-02-04,Orthopedic,289.61,47.0,4,Phone,0,Refunded
+BKG3209,Kayla Moore,2024-05-24,Orthopedic,762.44,70.0,3,Phone,0,Paid
+BKG3210,Terry Carter,2023-10-01,ENT,313.42,12.0,3,App,1,Unpaid
+BKG3211,Lisa Walters,2024-04-10,Psychiatrist,396.06,60.0,4,Website,1,Refunded
+BKG3212,Michael Wilson,2024-11-10,Dermatologist,392.24,56.0,3,App,0,Paid
+BKG3213,Travis Downs,2024-08-27,Psychiatrist,634.24,77.0,4,Website,0,Unpaid
+BKG3214,Kathleen Romero,2024-06-14,Orthopedic,455.76,85.0,4,Walk-in,1,Paid
+BKG3215,Mary Hall,2024-04-19,Psychiatrist,687.16,47.0,4,Walk-in,0,Refunded
+BKG3216,Kerry Martin,2025-03-02,General Physician,398.98,45.0,3,Walk-in,1,Pending
+BKG3217,Mr. Derek Avila MD,2024-09-02,General Physician,541.85,50.0,3,App,0,Paid
+BKG3218,Nicholas Hodges,2024-09-02,Orthopedic,374.7,78.0,5,App,1,Paid
+BKG3219,Valerie Bishop,2024-08-27,Orthopedic,821.77,22.0,3,App,1,Paid
+BKG3220,Judith Ramirez,2024-07-09,Psychiatrist,321.86,67.0,4,Phone,1,Paid
+BKG3221,Mary Clark,2023-07-21,Psychiatrist,546.47,59.0,3,App,0,Unpaid
+BKG3222,Mary Bean,2024-12-04,General Physician,595.07,39.0,4,Phone,0,Pending
+BKG3223,Hannah Carroll,2024-08-01,Dermatologist,562.07,71.0,3,Walk-in,0,Paid
+BKG3224,Joshua Pierce,2023-07-06,ENT,472.21,34.0,2,App,0,Unpaid
+BKG3225,Bryan Brown,2024-01-11,Dermatologist,480.53,36.0,2,Phone,0,Pending
+BKG3226,Leah Owen,2025-03-23,Orthopedic,506.57,60.0,4,Walk-in,1,Refunded
+BKG3227,Jason Snyder,2025-06-07,Psychiatrist,477.95,87.0,4,Walk-in,1,Refunded
+BKG3228,Bridget Wright,2024-06-24,Dermatologist,644.58,66.0,3,App,1,Refunded
+BKG3229,Patrick Koch,2025-03-24,Psychiatrist,831.58,56.0,3,Website,1,Refunded
+BKG3230,Chad Mccarthy,2024-10-13,Cardiologist,416.38,48.0,4,Website,1,Refunded
+BKG3231,Jessica Smith,2024-10-08,General Physician,294.53,25.0,2,Walk-in,1,Pending
+BKG3232,Scott Parsons,2024-12-21,ENT,486.76,31.0,3,Website,1,Paid
+BKG3233,Melissa Khan,2023-07-07,Psychiatrist,886.96,63.0,2,Website,0,Refunded
+BKG3234,Valerie Harris,2023-12-03,ENT,379.45,30.0,2,Phone,1,Paid
+BKG3235,Jessica Miller,2023-10-30,Psychiatrist,745.87,81.0,3,Phone,0,Paid
+BKG3236,Adam Douglas,2024-08-20,Psychiatrist,751.66,25.0,3,Phone,1,Paid
+BKG3237,Curtis Mendoza,2023-10-22,ENT,416.96,68.0,2,Walk-in,1,Paid
+BKG3238,Sarah Mccormick,2025-04-18,ENT,585.35,40.0,3,Website,0,Paid
+BKG3239,Cynthia Collins,2024-06-19,Dermatologist,744.26,51.0,3,App,1,Pending
+BKG3240,Erik Martinez,2024-10-02,Psychiatrist,443.13,83.0,3,Website,0,Paid
+BKG3241,Cassandra Lam,2025-04-10,Cardiologist,469.46,41.0,3,Walk-in,1,Pending
+BKG3242,Katherine Neal,2023-09-09,Dermatologist,412.75,68.0,4,Phone,0,Pending
+BKG3243,Nicholas Wilson,2024-01-06,Orthopedic,347.79,43.0,2,Walk-in,1,Paid
+BKG3244,William Pugh,2025-02-18,Orthopedic,402.61,18.0,3,Phone,0,Pending
+BKG3245,Ashley Brown,2023-08-13,General Physician,316.41,20.0,2,Walk-in,0,Refunded
+BKG3246,Joshua Anderson,2023-09-16,Cardiologist,505.11,19.0,2,App,1,Refunded
+BKG3247,Amy Kent,2024-11-28,Psychiatrist,384.5,26.0,3,Phone,1,Refunded
+BKG3248,Robert Leonard,2024-01-21,Cardiologist,535.07,77.0,3,Phone,0,Paid
+BKG3249,James Graham,2023-11-19,Orthopedic,266.62,57.0,4,Website,1,Refunded
+BKG3250,Donald Thompson,2023-11-07,Psychiatrist,549.63,61.0,3,Walk-in,0,Unpaid
+BKG3251,Denise Martinez,2024-09-29,Cardiologist,625.03,34.0,5,Website,1,Unpaid
+BKG3252,Kristine Dawson,2025-05-12,ENT,200.94,30.0,1,Walk-in,0,Unpaid
+BKG3253,Andre Jones,2025-06-11,Dermatologist,556.11,74.0,2,App,1,Refunded
+BKG3254,James Navarro,2025-04-20,Psychiatrist,684.15,72.0,1,Website,0,Pending
+BKG3255,Autumn Smith,2024-07-11,ENT,318.55,60.0,2,Phone,1,Unpaid
+BKG3256,Jodi Payne,2024-03-05,Dermatologist,750.89,45.0,3,App,0,Pending
+BKG3257,Evelyn Smith,2024-01-27,Cardiologist,562.85,75.0,4,Walk-in,0,Pending
+BKG3258,Richard Edwards,2024-07-13,Psychiatrist,394.25,24.0,1,Phone,1,Paid
+BKG3259,David Martin,2025-04-27,General Physician,491.63,48.0,5,Walk-in,1,Unpaid
+BKG3260,Samantha Underwood,2023-08-23,General Physician,583.75,79.0,4,Phone,0,Paid
+BKG3261,Brianna Lewis,2025-02-14,Orthopedic,511.4,10.0,3,Walk-in,0,Paid
+BKG3262,Michael Washington,2023-09-16,ENT,580.81,32.0,2,Phone,0,Paid
+BKG3263,Lori Reyes,2025-05-08,Psychiatrist,361.9,48.0,2,Walk-in,0,Refunded
+BKG3264,David Bailey,2023-07-31,ENT,525.4,66.0,2,Website,1,Paid
+BKG3265,Carolyn Peterson,2025-01-17,Cardiologist,287.94,,2,Phone,0,Pending
+BKG3266,Michael Ellison,2023-08-27,General Physician,483.32,50.0,3,Phone,0,Unpaid
+BKG3267,Ryan Jones,2023-09-17,ENT,364.41,82.0,3,Website,0,Pending
+BKG3268,Mark Mullins,2023-07-04,Orthopedic,389.67,22.0,3,Walk-in,1,Unpaid
+BKG3269,Jordan Lara,2025-02-11,Psychiatrist,685.41,79.0,,Phone,0,Refunded
+BKG3270,Emily Collins,2023-09-11,General Physician,663.7,15.0,4,Website,1,Unpaid
+BKG3271,Brandon Ellis,2024-07-06,ENT,591.37,61.0,5,Walk-in,1,Unpaid
+BKG3272,John Oneill,2023-09-13,ENT,336.15,12.0,2,Phone,1,Unpaid
+BKG3273,Richard Brown,2024-01-30,Psychiatrist,452.54,72.0,3,Phone,1,Unpaid
+BKG3274,Robert Richards Jr.,2023-07-23,Orthopedic,681.96,58.0,3,Walk-in,1,Pending
+BKG3275,Joshua Holmes,2023-11-04,Cardiologist,521.26,85.0,2,Website,1,Unpaid
+BKG3276,Lynn Vasquez,2025-02-25,Orthopedic,847.9,56.0,1,Phone,1,Paid
+BKG3277,Jonathan Anderson,2024-05-16,Cardiologist,559.0,64.0,4,Walk-in,0,Unpaid
+BKG3278,Jordan Miller,2025-03-12,Dermatologist,528.81,73.0,4,Phone,0,Paid
+BKG3279,Anthony Swanson,2025-02-13,ENT,453.63,74.0,3,Walk-in,1,Refunded
+BKG3280,Nicole Lambert,2024-04-30,ENT,520.03,76.0,3,Phone,0,Paid
+BKG3281,James Dorsey,2024-11-02,General Physician,477.13,24.0,3,App,0,Pending
+BKG3282,Kristina Potts,2024-06-26,Dermatologist,606.22,41.0,1,Website,1,Paid
+BKG3283,Matthew Martin,2024-11-08,ENT,643.51,77.0,3,Website,0,Pending
+BKG3284,Clinton Hansen,2023-07-20,Cardiologist,382.1,27.0,2,App,1,Paid
+BKG3285,Wanda Cobb,2023-06-25,Psychiatrist,300.32,52.0,2,Walk-in,0,Unpaid
+BKG3286,Tammy Cross MD,2023-10-29,Cardiologist,224.57,44.0,5,Website,1,Refunded
+BKG3287,Gregory Banks,2023-11-11,ENT,576.2,87.0,3,Walk-in,1,Pending
+BKG3288,Robert Flowers,2023-11-24,ENT,334.5,67.0,4,Phone,0,Pending
+BKG3289,Latoya Hanna,2024-06-23,Cardiologist,177.07,42.0,3,App,0,Unpaid
+BKG3290,David Smith,2024-07-24,Psychiatrist,558.29,23.0,3,Walk-in,1,Unpaid
+BKG3291,Emily Wade,2023-08-17,Dermatologist,873.95,43.0,3,Walk-in,1,Paid
+BKG3292,Jacob Obrien,2023-10-08,ENT,499.09,70.0,2,Website,1,Pending
+BKG3293,Mary Chavez,2024-06-03,General Physician,625.77,13.0,2,Phone,0,Paid
+BKG3294,Dawn Harrington,2024-05-31,Cardiologist,512.27,68.0,4,Website,0,Unpaid
+BKG3295,Catherine Jones,2025-05-15,Cardiologist,485.17,38.0,4,Phone,0,Pending
+BKG3296,Austin Hood,2024-12-07,General Physician,637.86,15.0,3,Website,0,Refunded
+BKG3297,Nathan Walker,2024-01-01,Cardiologist,456.46,58.0,3,Walk-in,1,Refunded
+BKG3298,Rose Bruce,2025-04-17,General Physician,540.11,49.0,5,Walk-in,1,Pending
+BKG3299,Kari Brown,2023-11-20,General Physician,548.25,74.0,2,App,1,Pending
+BKG3300,Kristine Smith,2024-09-14,General Physician,399.79,78.0,3,Walk-in,1,Unpaid
+BKG3301,Matthew Armstrong,2024-09-29,Psychiatrist,648.81,36.0,3,Walk-in,0,Pending
+BKG3302,Sharon Stevens,2024-03-14,Dermatologist,473.76,89.0,4,Walk-in,1,Pending
+BKG3303,Kimberly Willis,2025-03-02,Dermatologist,386.64,15.0,,Walk-in,1,Refunded
+BKG3304,Kristina Waters,2025-04-28,Orthopedic,580.48,22.0,3,App,0,Unpaid
+BKG3305,Scott Gaines,2024-11-26,Psychiatrist,365.23,73.0,4,Phone,0,Paid
+BKG3306,Melissa Cooper,2025-05-05,Orthopedic,,71.0,4,App,1,Pending
+BKG3307,Penny Hubbard,2025-02-26,ENT,498.63,28.0,3,App,0,Unpaid
+BKG3308,Gwendolyn Collins,2024-01-03,Dermatologist,662.88,85.0,3,Website,1,Unpaid
+BKG3309,Susan Brown,2024-08-27,Dermatologist,571.2,89.0,3,Phone,0,Refunded
+BKG3310,Jessica Robinson,2023-10-15,Dermatologist,496.25,52.0,5,Website,0,Pending
+BKG3311,Jeff Edwards,2025-02-23,Cardiologist,622.66,83.0,2,App,1,Pending
+BKG3312,Rhonda Macdonald,2024-07-16,Orthopedic,708.53,29.0,4,Walk-in,0,Unpaid
+BKG3313,Bruce Wallace,2024-07-22,Psychiatrist,583.67,77.0,3,Phone,1,Pending
+BKG3314,Kathleen Wiley,2025-06-10,Orthopedic,501.55,53.0,4,Walk-in,0,Refunded
+BKG3315,Cynthia Lozano,2025-01-12,ENT,303.22,32.0,3,App,0,Refunded
+BKG3316,Brandon Hernandez,2024-08-10,Dermatologist,340.23,11.0,3,App,0,Refunded
+BKG3317,Cody Arellano,2024-09-23,Psychiatrist,454.22,31.0,4,App,0,Pending
+BKG3318,Barbara Vasquez,2024-02-16,Orthopedic,408.57,66.0,4,Phone,0,Pending
+BKG3319,Jenna Simmons,2023-06-25,Dermatologist,471.95,81.0,4,Website,1,Refunded
+BKG3320,Janet Young,2023-07-02,Dermatologist,508.5,16.0,2,Website,0,Paid
+BKG3321,Lisa Lawson,2025-02-24,Psychiatrist,579.45,87.0,4,Walk-in,1,Unpaid
+BKG3322,Julie Peterson,2024-03-15,ENT,489.43,65.0,2,Phone,0,Paid
+BKG3323,Mr. Shannon Riley,2025-05-07,General Physician,572.98,76.0,3,Walk-in,1,Pending
+BKG3324,Kimberly Potter,2023-12-05,Psychiatrist,509.67,25.0,3,Walk-in,0,Unpaid
+BKG3325,Jennifer Richards,2023-06-28,General Physician,203.68,60.0,3,Website,1,Unpaid
+BKG3326,Rebecca Carpenter,2025-06-03,ENT,359.1,89.0,3,Phone,1,Pending
+BKG3327,James Rose,2023-12-29,Cardiologist,478.39,81.0,,App,0,Paid
+BKG3328,Mikayla Robinson,2024-07-13,Psychiatrist,318.55,21.0,2,Walk-in,0,Paid
+BKG3329,Jeffery Wagner,2024-08-25,General Physician,589.99,62.0,4,App,0,Paid
+BKG3330,Paige Robles,2025-02-03,ENT,729.61,84.0,3,Phone,1,Paid
+BKG3331,Daniel Ford,2025-01-28,Orthopedic,682.81,14.0,2,Walk-in,1,Refunded
+BKG3332,Nancy Myers,2024-11-09,Dermatologist,467.98,36.0,2,App,0,Unpaid
+BKG3333,Jonathan Hall,2025-05-22,Cardiologist,723.61,21.0,5,App,0,Paid
+BKG3334,Jeremy Pacheco III,2023-07-15,Psychiatrist,522.3,26.0,4,Website,1,Pending
+BKG3335,Shawn Carroll,2025-05-23,General Physician,449.44,15.0,5,Phone,1,Refunded
+BKG3336,Karen Smith,2024-01-04,Orthopedic,407.99,14.0,,Phone,0,Unpaid
+BKG3337,Keith Gardner,2024-02-15,General Physician,454.63,66.0,3,Phone,1,Pending
+BKG3338,Thomas Young,2023-06-26,ENT,441.77,37.0,3,Walk-in,0,Refunded
+BKG3339,Robin Kim,2024-07-27,Psychiatrist,525.56,87.0,4,Website,0,Unpaid
+BKG3340,Christina Jensen,2024-03-02,ENT,524.09,78.0,3,Walk-in,0,Pending
+BKG3341,Benjamin Webb,2024-08-10,General Physician,500.46,68.0,3,Phone,1,Unpaid
+BKG3342,Kyle Russell,2023-08-18,Psychiatrist,565.54,42.0,3,Walk-in,1,Refunded
+BKG3343,Joseph Martin,2023-08-20,General Physician,678.6,71.0,3,App,1,Paid
+BKG3344,Jose Andrews,2024-12-24,Dermatologist,642.43,59.0,3,Walk-in,1,Refunded
+BKG3345,Theresa Morris,2024-04-14,Psychiatrist,277.27,28.0,2,Walk-in,0,Pending
+BKG3346,Kristy Miller,2024-08-21,Psychiatrist,116.91,78.0,3,Phone,1,Paid
+BKG3347,Kenneth Bond,2024-09-27,Cardiologist,640.15,75.0,3,App,0,Unpaid
+BKG3348,Tracy Douglas,2024-11-24,Dermatologist,294.97,56.0,3,Phone,0,Unpaid
+BKG3349,Kristina Cox,2024-02-12,Psychiatrist,466.29,48.0,3,App,0,Unpaid
+BKG3350,William Rowe,2024-03-15,Orthopedic,324.48,77.0,4,App,1,Refunded
+BKG3351,Susan Cordova,2025-06-15,General Physician,229.7,42.0,1,App,0,Unpaid
+BKG3352,Charles Walters,2025-04-13,Orthopedic,581.22,22.0,3,Phone,0,Unpaid
+BKG3353,Marc Stevens,2023-12-30,General Physician,613.87,63.0,4,App,1,Unpaid
+BKG3354,Christine Burton,2025-04-04,ENT,413.52,16.0,3,Website,0,Refunded
+BKG3355,Mr. Cory Anderson,2024-04-14,General Physician,111.34,88.0,3,Website,1,Pending
+BKG3356,Kelsey Thompson,2023-09-04,Cardiologist,418.06,23.0,4,Website,1,Paid
+BKG3357,Yvonne Powell,2024-08-06,ENT,558.77,28.0,3,Website,1,Unpaid
+BKG3358,Michael Griffin,2024-05-14,Psychiatrist,278.16,63.0,4,Phone,0,Refunded
+BKG3359,Kelly Mclean,2024-07-11,General Physician,527.5,29.0,4,Walk-in,1,Unpaid
+BKG3360,Ryan Pearson,2024-10-29,Cardiologist,497.7,38.0,4,Walk-in,1,Paid
+BKG3361,Brandy Fischer,2025-04-13,Orthopedic,586.89,33.0,3,Website,1,Pending
+BKG3362,Kristy Clark,2024-04-02,ENT,517.94,72.0,2,Walk-in,1,Pending
+BKG3363,Stephen Reynolds,2023-10-24,ENT,354.04,83.0,3,Website,0,Unpaid
+BKG3364,Lisa Levine,2025-04-18,Cardiologist,679.49,66.0,3,Website,1,Paid
+BKG3365,Darin Hill,2023-08-17,Orthopedic,476.22,17.0,3,Walk-in,0,Unpaid
+BKG3366,Jessica Price,2025-03-26,ENT,495.9,71.0,3,Walk-in,1,Pending
+BKG3367,Jenny Phillips,2024-01-27,Psychiatrist,360.01,38.0,3,App,0,Refunded
+BKG3368,Anthony Bowers,2025-06-10,General Physician,433.51,83.0,1,Website,1,Refunded
+BKG3369,Sonya Brown,2025-05-14,Dermatologist,367.28,26.0,3,Walk-in,0,Refunded
+BKG3370,Nicole Bauer,2023-07-01,Orthopedic,474.06,75.0,3,Walk-in,1,Paid
+BKG3371,Terry Mendez,2025-06-10,General Physician,756.76,15.0,4,Walk-in,0,Paid
+BKG3372,Lisa Mueller,2024-09-11,Dermatologist,294.21,67.0,1,App,0,Pending
+BKG3373,Sarah Jackson,2025-04-15,ENT,257.97,78.0,3,Website,0,Paid
+BKG3374,Jason Branch,2024-01-29,Dermatologist,720.68,37.0,5,Website,1,Pending
+BKG3375,Kelly Barnett,2023-07-06,Orthopedic,468.6,71.0,2,Phone,0,Pending
+BKG3376,Russell Frank,2023-10-04,General Physician,399.64,50.0,3,App,0,Unpaid
+BKG3377,Lisa Walter,2023-10-26,ENT,655.99,78.0,2,App,0,Refunded
+BKG3378,Gregory Hutchinson,2025-06-13,ENT,409.16,50.0,4,Website,0,Refunded
+BKG3379,Ashley Garcia,2024-09-28,ENT,773.9,58.0,3,Phone,1,Pending
+BKG3380,Ronald Perez,2025-01-26,ENT,601.69,58.0,3,Phone,0,Paid
+BKG3381,Ian Jones,2024-09-24,Dermatologist,426.81,85.0,3,Website,0,Pending
+BKG3382,William Hayden,2023-10-10,ENT,823.6,80.0,4,Walk-in,0,Refunded
+BKG3383,John Obrien,2025-03-23,Cardiologist,409.14,12.0,2,App,1,Unpaid
+BKG3384,Dustin Dominguez,2024-10-10,ENT,611.31,19.0,1,Phone,0,Refunded
+BKG3385,Mary Carter,2023-12-12,ENT,,44.0,4,Walk-in,0,Pending
+BKG3386,Edward Hampton,2024-12-06,Cardiologist,695.26,89.0,3,Phone,0,Pending
+BKG3387,Vincent Horn,2024-12-23,General Physician,734.23,11.0,4,Walk-in,0,Refunded
+BKG3388,Mrs. Patricia Moses,2023-07-09,Psychiatrist,504.8,33.0,3,Walk-in,1,Refunded
+BKG3389,Stephen Zuniga,2025-01-24,Cardiologist,386.99,83.0,4,App,0,Paid
+BKG3390,Monica Hull,2024-12-25,Orthopedic,569.0,47.0,3,Phone,0,Unpaid
+BKG3391,Blake Camacho,2025-03-05,General Physician,398.34,31.0,4,Phone,1,Refunded
+BKG3392,Stephen Johnston,2024-03-29,ENT,802.01,35.0,5,Walk-in,1,Unpaid
+BKG3393,Christine Gardner,2025-04-17,Dermatologist,520.48,52.0,3,Website,1,Unpaid
+BKG3394,Danny Hunt,2023-09-14,Cardiologist,445.2,,2,Phone,0,Paid
+BKG3395,Matthew Hampton,2024-04-29,General Physician,527.7,48.0,3,App,1,Pending
+BKG3396,Steve Moore,2024-06-18,General Physician,297.93,38.0,2,Website,0,Unpaid
+BKG3397,Sandra Reed,2025-01-29,ENT,354.26,29.0,3,Phone,1,Unpaid
+BKG3398,Richard Garcia,2024-09-11,Psychiatrist,680.06,50.0,3,App,0,Unpaid
+BKG3399,Sandra Johnson,2024-08-26,Dermatologist,401.47,63.0,3,Website,1,Unpaid
+BKG3400,Lindsay Williams,2024-08-17,Dermatologist,342.96,29.0,3,Phone,0,Pending
+BKG3401,Dr. Ashley Butler,2024-08-07,Dermatologist,580.5,28.0,3,App,1,Paid
+BKG3402,Jacob Walker,2024-08-03,Orthopedic,677.86,75.0,4,Website,0,Unpaid
+BKG3403,Lisa Knight,2024-05-29,General Physician,607.84,39.0,2,Phone,0,Refunded
+BKG3404,Henry Hernandez,2025-02-06,Orthopedic,649.41,62.0,2,Website,0,Pending
+BKG3405,Walter Beltran,2023-11-24,Orthopedic,386.48,43.0,2,Walk-in,0,Paid
+BKG3406,Spencer Villarreal,2024-10-31,General Physician,286.73,31.0,3,Walk-in,0,Refunded
+BKG3407,Erica Lucas,2025-01-02,Dermatologist,725.2,76.0,3,Website,0,Refunded
+BKG3408,Martin Cross,2023-08-07,General Physician,451.6,15.0,3,Walk-in,0,Refunded
+BKG3409,Robert Shaw,2024-05-02,Psychiatrist,462.38,88.0,3,Walk-in,0,Unpaid
+BKG3410,Kenneth Atkinson,2023-09-09,General Physician,699.23,36.0,4,Website,1,Unpaid
+BKG3411,Scott Davis,2024-03-13,ENT,583.43,19.0,1,Walk-in,0,Refunded
+BKG3412,Crystal Wall,2024-10-22,General Physician,568.38,82.0,4,Website,0,Paid
+BKG3413,Timothy Stephens III,2024-01-08,Cardiologist,824.75,57.0,4,Website,1,Unpaid
+BKG3414,Jodi Schultz,2024-07-18,Psychiatrist,403.47,79.0,4,Walk-in,0,Paid
+BKG3415,Kathy Scott,2025-03-14,Cardiologist,639.18,68.0,5,Phone,1,Unpaid
+BKG3416,Laura Jenkins,2024-01-16,Dermatologist,508.55,68.0,1,Website,0,Unpaid
+BKG3417,Alan Salas,2025-05-23,Dermatologist,540.29,11.0,2,Website,1,Unpaid
+BKG3418,Nicole Brooks,2025-01-21,ENT,729.27,38.0,4,Phone,1,Paid
+BKG3419,Kiara Lee,2024-01-22,ENT,576.18,77.0,3,Walk-in,0,Unpaid
+BKG3420,Kimberly Fisher,2024-04-02,ENT,580.74,74.0,3,App,1,Paid
+BKG3421,Alexis Fisher,2023-08-19,Psychiatrist,660.88,35.0,4,Phone,0,Unpaid
+BKG3422,Victor Parsons,2025-05-15,Orthopedic,445.26,19.0,4,App,0,Pending
+BKG3423,Devin Strickland,2023-08-02,General Physician,374.12,62.0,5,Walk-in,0,Unpaid
+BKG3424,Robert Parks,2023-11-19,Cardiologist,343.28,88.0,,Website,0,Refunded
+BKG3425,Greg Oconnor,2023-12-24,Psychiatrist,205.05,68.0,4,Website,1,Paid
+BKG3426,Lindsay Lewis,2024-11-02,Cardiologist,808.43,31.0,3,Walk-in,0,Pending
+BKG3427,Kelly Brown,2024-04-28,General Physician,334.52,60.0,4,Walk-in,1,Paid
+BKG3428,Chad Simpson,2024-10-30,Orthopedic,466.81,57.0,1,Walk-in,1,Unpaid
+BKG3429,Gerald Myers,2024-02-05,Cardiologist,458.48,30.0,3,Walk-in,0,Refunded
+BKG3430,Jacqueline Leon,2023-12-28,Psychiatrist,546.11,31.0,4,Walk-in,0,Refunded
+BKG3431,Jennifer Martinez,2024-06-14,General Physician,622.36,39.0,3,Walk-in,0,Refunded
+BKG3432,Blake Taylor,2023-12-14,ENT,629.07,34.0,3,Walk-in,0,Unpaid
+BKG3433,Mark Rodriguez,2023-09-19,ENT,,37.0,2,Website,1,Unpaid
+BKG3434,Alicia Mcintosh,2023-11-11,ENT,474.93,74.0,4,App,0,Refunded
+BKG3435,Randall Henson,2023-08-11,General Physician,542.39,54.0,3,App,1,Unpaid
+BKG3436,Donald Hayes,2023-10-26,Orthopedic,462.7,77.0,4,Website,0,Unpaid
+BKG3437,William Jones,2025-04-10,Psychiatrist,741.1,16.0,3,Phone,0,Pending
+BKG3438,Michael Rangel,2024-03-05,ENT,573.65,58.0,4,App,0,Unpaid
+BKG3439,Ricardo Bright,2024-07-20,General Physician,610.23,18.0,4,Phone,0,Pending
+BKG3440,Anne Blanchard,2023-12-27,Cardiologist,599.43,45.0,3,Website,1,Refunded
+BKG3441,Christopher French,2023-10-19,ENT,676.02,10.0,3,Phone,1,Paid
+BKG3442,Edwin Martinez,2024-08-20,Dermatologist,527.15,19.0,3,Website,0,Unpaid
+BKG3443,Jeremiah Peterson,2025-03-19,Psychiatrist,305.48,45.0,5,Walk-in,1,Refunded
+BKG3444,Samuel Thomas,2025-02-13,Cardiologist,559.95,82.0,4,Walk-in,1,Refunded
+BKG3445,Linda Willis,2023-09-19,Orthopedic,402.3,55.0,5,App,0,Unpaid
+BKG3446,Nathaniel Lucas,2023-11-09,Orthopedic,420.71,41.0,3,App,0,Paid
+BKG3447,Kathryn Martinez,2025-01-06,General Physician,587.95,41.0,4,Phone,1,Paid
+BKG3448,Richard Mcdaniel,2023-11-27,Orthopedic,685.74,15.0,4,Phone,1,Unpaid
+BKG3449,Jake Robinson,2024-05-18,Dermatologist,503.19,57.0,4,App,1,Refunded
+BKG3450,James Willis,2025-02-21,ENT,546.32,47.0,5,Walk-in,1,Unpaid
+BKG3451,Patricia Chase,2024-11-18,Cardiologist,755.33,26.0,3,Website,0,Paid
+BKG3452,Dana Roberts,2024-01-07,ENT,536.11,83.0,2,Walk-in,0,Unpaid
+BKG3453,Robert Nelson,2024-11-18,Psychiatrist,,36.0,4,App,1,Refunded
+BKG3454,Suzanne Moore,2024-01-16,ENT,584.83,63.0,4,Website,0,Paid
+BKG3455,Peter Morrow,2024-04-22,General Physician,235.89,59.0,3,Phone,1,Paid
+BKG3456,Steven Cardenas,2024-09-23,ENT,613.0,44.0,3,App,1,Paid
+BKG3457,Jennifer Donovan,2025-01-23,Psychiatrist,557.17,34.0,3,Walk-in,0,Refunded
+BKG3458,Maria Crawford,2023-08-20,Cardiologist,693.46,37.0,3,Phone,1,Unpaid
+BKG3459,William Williams,2024-11-15,Dermatologist,600.98,24.0,3,Phone,1,Paid
+BKG3460,Robert Bradley,2024-06-24,Cardiologist,479.23,13.0,4,App,0,Refunded
+BKG3461,David Cochran,2025-06-06,Cardiologist,316.36,82.0,4,Walk-in,0,Refunded
+BKG3462,Nicholas Lewis,2025-05-05,General Physician,468.65,36.0,3,App,1,Pending
+BKG3463,Nicholas Murphy,2025-06-10,Psychiatrist,372.42,35.0,3,Website,1,Paid
+BKG3464,Wanda Rivera,2024-05-13,Cardiologist,412.92,28.0,3,Website,0,Refunded
+BKG3465,Howard Garcia,2025-01-10,Cardiologist,588.29,26.0,2,Phone,1,Unpaid
+BKG3466,Taylor Shaffer,2024-06-29,Dermatologist,750.49,52.0,4,Walk-in,1,Refunded
+BKG3467,April James,2024-10-02,Orthopedic,559.2,50.0,5,Website,0,Refunded
+BKG3468,Allison Luna,2025-06-15,Dermatologist,320.62,51.0,3,Website,0,Pending
+BKG3469,Roger Branch,2025-01-09,Psychiatrist,566.69,59.0,4,Website,0,Paid
+BKG3470,Lisa Nguyen,2025-01-13,Psychiatrist,679.49,49.0,4,Website,0,Refunded
+BKG3471,Kevin Myers,2023-11-02,General Physician,408.53,48.0,4,App,0,Unpaid
+BKG3472,Angela Murphy,2025-03-09,ENT,479.9,32.0,2,Phone,0,Pending
+BKG3473,John Marsh,2024-08-11,ENT,502.2,61.0,5,Phone,1,Refunded
+BKG3474,William Taylor,2025-01-28,ENT,382.27,56.0,3,Website,1,Unpaid
+BKG3475,Jennifer Gutierrez,2024-08-01,Orthopedic,597.24,72.0,3,Phone,0,Paid
+BKG3476,Megan Franklin,2023-11-21,Psychiatrist,481.86,78.0,2,Phone,0,Pending
+BKG3477,Isaac Russo,2023-10-29,Orthopedic,562.93,52.0,3,Phone,1,Refunded
+BKG3478,Teresa Higgins,2025-04-09,ENT,366.88,57.0,2,Phone,1,Pending
+BKG3479,Joseph Booker,2025-03-09,ENT,434.38,43.0,3,App,1,Unpaid
+BKG3480,David Aguilar,2023-07-11,Dermatologist,,49.0,3,Website,0,Paid
+BKG3481,Mr. Stephen Lopez,2024-11-24,Psychiatrist,444.08,84.0,4,Walk-in,0,Paid
+BKG3482,Andrew Sparks,2024-08-16,ENT,759.04,70.0,4,App,1,Paid
+BKG3483,Christine Andrews,2024-09-27,Cardiologist,440.05,59.0,3,Phone,0,Paid
+BKG3484,James Cook,2025-05-29,Psychiatrist,533.7,76.0,4,Website,0,Refunded
+BKG3485,Linda Wright,2024-05-17,Orthopedic,639.89,71.0,4,Website,0,Unpaid
+BKG3486,Patricia Thomas,2025-04-23,Psychiatrist,287.25,67.0,4,Website,1,Pending
+BKG3487,Riley Barajas,2024-04-26,General Physician,235.88,42.0,2,Website,1,Refunded
+BKG3488,Larry Patton,2025-04-17,Cardiologist,271.15,84.0,4,Phone,0,Pending
+BKG3489,Benjamin Mitchell,2025-01-01,ENT,689.39,25.0,5,Website,0,Paid
+BKG3490,Mrs. Allison Reese,2025-02-13,General Physician,417.22,57.0,4,Walk-in,0,Unpaid
+BKG3491,Jonathan Cordova,2025-02-01,Dermatologist,883.73,19.0,3,Walk-in,0,Refunded
+BKG3492,Michelle Tucker,2023-12-14,Psychiatrist,415.36,47.0,3,Website,0,Pending
+BKG3493,Daisy Jennings,2023-08-28,Psychiatrist,527.68,28.0,4,Phone,1,Pending
+BKG3494,Clifford Whitaker,2024-02-10,Dermatologist,731.32,45.0,3,Walk-in,0,Refunded
+BKG3495,Jennifer Soto,2025-06-13,General Physician,800.91,68.0,2,Walk-in,0,Pending
+BKG3496,Kevin Hernandez,2024-10-11,Cardiologist,809.23,72.0,3,Walk-in,0,Pending
+BKG3497,Jodi Coleman,2024-06-06,ENT,681.25,86.0,4,App,1,Refunded
+BKG3498,Jason Brady,2024-09-27,General Physician,653.61,55.0,4,App,1,Unpaid
+BKG3499,David Lynn,2025-05-14,Orthopedic,588.88,12.0,2,Walk-in,0,Refunded
+BKG3051,Michael Thomas,2023-12-07,Orthopedic,559.37,78.0,2,Walk-in,0,Unpaid
+BKG2461,Dawn Jones,2025-01-21,Orthopedic,505.29,68.0,3,Phone,1,Paid
+BKG3487,Riley Barajas,2024-04-26,General Physician,235.88,42.0,2,Website,1,Refunded
+BKG3379,Ashley Garcia,2024-09-28,ENT,773.9,58.0,3,Phone,1,Pending
+BKG2109,Nancy Taylor,2023-07-20,General Physician,488.83,23.0,4,Website,1,Unpaid
+BKG3493,Daisy Jennings,2023-08-28,Psychiatrist,527.68,28.0,4,Phone,1,Pending
+BKG2993,Jasmine Murray,2024-03-11,Dermatologist,397.7,54.0,3,Phone,0,Pending
+BKG2125,Jeremy Wilson,2023-08-08,Dermatologist,828.57,80.0,3,Phone,0,Paid
+BKG2349,Heather Morris,2025-05-03,Cardiologist,467.98,45.0,3,Website,1,Refunded
+BKG2404,Michael Mccarthy,2023-07-08,Dermatologist,432.49,30.0,2,Walk-in,0,Pending
+BKG2152,Brandon Mendoza,2023-08-01,Psychiatrist,398.0,47.0,4,Walk-in,0,Paid
+BKG2931,Tyler Salazar,2024-06-02,General Physician,782.17,30.0,2,Walk-in,0,Paid
+BKG2886,Rachel Hogan,2023-11-21,General Physician,587.59,20.0,3,Website,1,Paid
+BKG2668,James Alexander,2023-09-09,Orthopedic,102.35,56.0,,Phone,1,Unpaid
+BKG3163,Scott Jacobson,2025-04-11,Orthopedic,253.19,35.0,3,App,1,Pending

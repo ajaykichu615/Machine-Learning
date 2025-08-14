@@ -1,0 +1,65 @@
+🧠 SVM Algorithm
+
+Support Vector Machine (SVM) is a supervised learning algorithm used for both classification and regression, but it is mainly used for classification.
+
+SVM aims to find a hyperplane in an N-dimensional space (where N is the number of features) that best separates the data into classes.
+
+---
+✳️ How It Works:
+
+1. It finds the optimal hyperplane that separates the classes with the maximum margin.
+
+2. Support vectors are the data points that lie closest to the hyperplane. These are the key elements of the training dataset.
+
+3. If the data is not linearly separable, SVM uses kernel functions to map data into a higher dimension where separation is possible.
+
+---
+
+🔧 Types of Kernel Functions (for non-linear classification):
+
+* Linear – for linearly separable data
+
+* Polynomial – when relationships are curved
+
+* RBF (Radial Basis Function) – for complex, non-linear data
+
+* Sigmoid – similar to neural networks
+
+---
+
+✅ Advantages of SVM:
+
+1. Effective in high-dimensional spaces – Works well even when number of features > number of samples.
+
+2. Memory efficient – Uses only support vectors for decision function.
+
+3. Versatile – Can be used for linear and non-linear data with different kernels.
+
+4. Robust to overfitting (especially with proper regularization).
+
+5. Works well with clear margin of separation between classes.
+
+---
+❌ Disadvantages of SVM:
+
+1. Not suitable for large datasets – Training time increases with the size of the dataset.
+
+2. Poor performance on overlapping classes – SVM doesn’t perform well when the classes are heavily mixed or not well-separated.
+
+3. Hard to tune – Choosing the right kernel and parameters (like C and gamma) can be tricky.
+
+4. No direct probability estimates – Unlike some other classifiers, SVM doesn’t directly provide probability scores (unless explicitly modified).
+
+5. Less interpretable – It’s harder to understand the model when using complex kernels.
+
+---
+📌 Summary Table:
+
+| Aspect           | Pros                                       | Cons                                             |
+| ---------------- | ------------------------------------------ | ------------------------------------------------ |
+| Accuracy         | High with clear margins and small datasets | May drop with noisy or overlapping data          |
+| Speed            | Fast on small, clean datasets              | Slow on large or complex datasets                |
+| Flexibility      | Supports multiple kernel types             | Needs careful tuning of kernel & hyperparameters |
+| Interpretability | Simple in linear case                      | Complex when using non-linear kernels            |
+
+

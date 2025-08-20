@@ -11,7 +11,7 @@ It covers a variety of topics such as:
 - Unsupervised learning (clustering, dimensionality reduction)
 - Natural Language Processing (text classification, vectorization)
 - Model evaluation and hyperparameter tuning
-- Deployment experiments using tools like Gradio  
+- Deployment experiments using tools like Gradio and streamlit  
 
 The projects range from small experiments to more complete end-to-end workflows.  
 This repository is meant for learning, experimentation, and tracking my progress in ML.  

@@ -1,0 +1,14 @@
+RAG (Retrieval Augmented Generation)
+------------------------------------
+
+Main two components:
+
+1. Retriever: A system that fetches the most relevant document or information from an external knowledge database.
+
+2. Generator: A LLM that uses both retrieved information and its own internal knowledge to generate accurate context aware responses.
+
+Applications:
+
+Customer Support chatbots
+Healthcare
+Education (Answering from course notes)

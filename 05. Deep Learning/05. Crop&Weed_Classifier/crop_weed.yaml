@@ -1,0 +1,5 @@
+path: /content/
+train: /content/train/images/
+val: /content/valid/images/
+nc: 2
+names: ['crop', 'weed']

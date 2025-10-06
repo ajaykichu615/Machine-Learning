@@ -1,0 +1,15 @@
+Recurrent Neural Networks
+-------------------------
+
+- process sequential inputs (like text, time series, or speech) by having loops in their network structure, enabling memory of previous elements in the sequence.
+- Standard RNNs struggle with long-term dependencies due to the vanishing or exploding gradient problem, which makes them ineffective at connecting information spaced far apart in a sequence.
+- RNNs are used for simple sequence predictions, basic signal processing etc.
+
+
+LSTM
+----
+
+- LSTM is a specialized type of RNN—it is not a completely separate concept, but rather an advanced variant of the standard RNN architecture.
+- LSTMs address the vanishing gradient issue using a more complex "cell" module with gates that regulate information flow: the input gate, forget gate, and output gate.
+- These gates allow the model to control what information should be kept, updated, or discarded at each step, making it capable of learning both short-term and long-term sequence      dependencies
+- LSTMs are used in tasks like language modeling, translation, time series prediction, and speech recognition.
